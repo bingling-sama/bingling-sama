@@ -58,6 +58,11 @@
   <img src="https://github.com/bingling-sama/bingling-sama/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+### Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### 🌟 Featured Projects
 
 Here are some of my notable projects:
