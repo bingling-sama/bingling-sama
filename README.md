@@ -61,7 +61,7 @@
 ### Coding Activity
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-197%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
@@ -71,7 +71,7 @@
 
 > 📦 96.9 kB Used in GitHub's Storage 
  > 
-> 🏆 296 Contributions in the Year 2025
+> 🏆 297 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -106,27 +106,27 @@ Sunday                   333 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    37 hrs 20 mins      ███████████████░░░░░░░░░░   59.62 % 
-TypeScript               14 hrs 30 mins      ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-JavaScript               3 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Markdown                 2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Python                   1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Other                    35 hrs 40 mins      ██████████████░░░░░░░░░░░   57.25 % 
+TypeScript               16 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   26.68 % 
+JavaScript               3 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Python                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+Markdown                 1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 🔥 Editors: 
-Edge                     46 hrs 3 mins       ██████████████████░░░░░░░   73.53 % 
-VS Code                  15 hrs 42 mins      ██████░░░░░░░░░░░░░░░░░░░   25.08 % 
-Chrome                   52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Edge                     46 hrs 8 mins       ███████████████████░░░░░░   74.06 % 
+VS Code                  15 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+Chrome                   19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               21 hrs 30 mins      █████████░░░░░░░░░░░░░░░░   34.35 % 
-Mineearthquake_echarts   9 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-G2                       7 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-id                       3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
-system-ui                3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
+ccnubox_rn               20 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Mineearthquake_echarts   9 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+G2                       7 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+BitNet                   3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+system-ui                3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 💻 Operating System: 
-Mac                      60 hrs 18 mins      ████████████████████████░   96.30 % 
-Windows                  2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Mac                      61 hrs 41 mins      █████████████████████████   99.01 % 
+Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -142,7 +142,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2025 00:43:34 UTC
+ Last Updated on 18/04/2025 00:43:29 UTC
 <!--END_SECTION:waka-->
 
 ### 🌟 Featured Projects
