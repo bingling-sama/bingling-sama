@@ -58,7 +58,13 @@
   <img src="https://github.com/bingling-sama/bingling-sama/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
-### Coding Activity
+### ⌨️ Coding Activity
+
+<details>
+  
+<summary>
+🖱️Click to supervise my work
+</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-258%20hrs%2047%20mins-blue)
@@ -143,6 +149,8 @@ C                        1 repo              ░░░░░░░░░░░�
 
  Last Updated on 27/04/2025 00:47:57 UTC
 <!--END_SECTION:waka-->
+
+</details>
 
 ### 🌟 Featured Projects
 
