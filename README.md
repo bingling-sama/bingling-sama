@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-294%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -112,26 +112,26 @@ Sunday                   447 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 23 mins      ██████████████░░░░░░░░░░░   56.64 % 
-TypeScript               8 hrs 21 mins       ████████░░░░░░░░░░░░░░░░░   32.86 % 
-JSON                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-CocoaPods                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    15 hrs 20 mins      █████████████████░░░░░░░░   66.79 % 
+TypeScript               5 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+CocoaPods                48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Python                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 
 🔥 Editors: 
-Edge                     17 hrs 48 mins      ██████████████████░░░░░░░   70.03 % 
-VS Code                  7 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Edge                     17 hrs 29 mins      ███████████████████░░░░░░   76.15 % 
+VS Code                  5 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               14 hrs 56 mins      ███████████████░░░░░░░░░░   58.79 % 
-G2                       3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-react-native             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-imd-seat-fe              1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-system-ui                57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+ccnubox_rn               9 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.92 % 
+G2                       3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+django-api-main          3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+system-ui                2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+react-native             1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
 
 💻 Operating System: 
-Mac                      24 hrs 48 mins      ████████████████████████░   97.56 % 
-Windows                  37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+Mac                      22 hrs 10 mins      ████████████████████████░   96.51 % 
+Windows                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2025 00:48:06 UTC
+ Last Updated on 06/05/2025 00:46:26 UTC
 <!--END_SECTION:waka-->
 
 </details>
