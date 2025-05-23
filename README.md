@@ -67,6 +67,8 @@
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-394%20hrs%209%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.1%20million%20lines%20of%20code-blue)
@@ -74,6 +76,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 98.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 417 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,19 +88,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                550 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-🌆 Daytime                1450 commits        █████████░░░░░░░░░░░░░░░░   37.95 % 
-🌃 Evening                1529 commits        ██████████░░░░░░░░░░░░░░░   40.02 % 
+🌞 Morning                551 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+🌆 Daytime                1450 commits        █████████░░░░░░░░░░░░░░░░   37.94 % 
+🌃 Evening                1529 commits        ██████████░░░░░░░░░░░░░░░   40.01 % 
 🌙 Night                  292 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
-Tuesday                  844 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+Tuesday                  844 commits         ██████░░░░░░░░░░░░░░░░░░░   22.08 % 
 Wednesday                339 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
 Thursday                 254 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Friday                   631 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+Friday                   632 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 Saturday                 535 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
 Sunday                   571 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 ```
@@ -108,28 +112,28 @@ Sunday                   571 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 18 mins      ██████████████░░░░░░░░░░░   55.61 % 
-TypeScript               9 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
-JSON                     2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-JavaScript               1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    20 hrs 1 min        ██████████████░░░░░░░░░░░   56.58 % 
+TypeScript               6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+JSON                     2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
 
 🔥 Editors: 
-Edge                     27 hrs 37 mins      ██████████████████░░░░░░░   72.15 % 
-Cursor                   9 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.75 % 
-RustRover                45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Edge                     26 hrs 1 min        ██████████████████░░░░░░░   73.51 % 
+Cursor                   8 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               20 hrs 40 mins      █████████████░░░░░░░░░░░░   53.97 % 
-FrontEnd                 3 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-HonokaID                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-authlib-injector         1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+ccnubox_rn               17 hrs 51 mins      █████████████░░░░░░░░░░░░   50.45 % 
+FrontEnd                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+HonokaID                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+id                       1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 💻 Operating System: 
-Mac                      37 hrs 40 mins      █████████████████████████   98.35 % 
-Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Mac                      34 hrs 45 mins      █████████████████████████   98.21 % 
+Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +149,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2025 00:46:22 UTC
+ Last Updated on 23/05/2025 00:46:35 UTC
 <!--END_SECTION:waka-->
 
 </details>
