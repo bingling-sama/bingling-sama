@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-397%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -112,28 +112,28 @@ Sunday                   571 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    18 hrs 51 mins      ██████████████░░░░░░░░░░░   54.44 % 
-TypeScript               6 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-JSON                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Other                    20 hrs 43 mins      ███████████████░░░░░░░░░░   59.53 % 
+TypeScript               5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 🔥 Editors: 
-Edge                     24 hrs 10 mins      █████████████████░░░░░░░░   69.81 % 
-Cursor                   9 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Edge                     24 hrs 30 mins      ██████████████████░░░░░░░   70.38 % 
+Cursor                   9 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               12 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   35.69 % 
-imd-seat-fe              5 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-FrontEnd                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
-HonokaID                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+ccnubox_rn               11 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.68 % 
+imd-seat-fe              8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+FrontEnd                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+HonokaID                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 💻 Operating System: 
-Mac                      33 hrs 59 mins      █████████████████████████   98.17 % 
-Windows                  37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Mac                      34 hrs 3 mins       ████████████████████████░   97.82 % 
+Windows                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2025 00:44:40 UTC
+ Last Updated on 25/05/2025 00:52:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
