@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-402%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-404%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,13 +75,13 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 98.4 kB Used in GitHub's Storage 
+> 📦 118.1 kB Used in GitHub's Storage 
  > 
-> 🏆 419 Contributions in the Year 2025
+> 🏆 420 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 43 Public Repositories 
+> 📜 44 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -112,44 +112,43 @@ Sunday                   571 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 43 mins      ███████████████░░░░░░░░░░   59.53 % 
-TypeScript               5 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-Rust                     2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-JSON                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+Other                    22 hrs 5 mins       ████████████████░░░░░░░░░   65.49 % 
+TypeScript               5 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+JSON                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+SCSS                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
 
 🔥 Editors: 
-Edge                     24 hrs 30 mins      ██████████████████░░░░░░░   70.38 % 
-Cursor                   9 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-RustRover                45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Edge                     24 hrs 57 mins      ██████████████████░░░░░░░   73.96 % 
+Cursor                   8 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
 VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               11 hrs 1 min        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-imd-seat-fe              8 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
-FrontEnd                 3 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-HonokaID                 1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+imd-seat-fe              11 hrs 23 mins      ████████░░░░░░░░░░░░░░░░░   33.75 % 
+ccnubox_rn               10 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   31.17 % 
+FrontEnd                 3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+VMind                    2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+id                       1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 💻 Operating System: 
-Mac                      34 hrs 3 mins       ████████████████████████░   97.82 % 
-Windows                  45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Mac                      32 hrs 55 mins      ████████████████████████░   97.59 % 
+Windows                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
-Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
+Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 
 
 
- Last Updated on 25/05/2025 00:52:48 UTC
+ Last Updated on 26/05/2025 00:48:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
