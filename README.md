@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-449%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -112,26 +112,26 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 37 mins      ███████████████████░░░░░░   77.79 % 
-TypeScript               3 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-Markdown                 1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-MDX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    17 hrs 25 mins      ████████████████████░░░░░   80.01 % 
+TypeScript               3 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Markdown                 23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+MDX                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Edge                     19 hrs 36 mins      ██████████████████████░░░   86.61 % 
-Cursor                   3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Edge                     19 hrs 2 mins       ██████████████████████░░░   87.46 % 
+Cursor                   2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 
 🐱‍💻 Projects: 
-uptime-kuma              6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   28.18 % 
-ccnubox_rn               3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-VMind                    3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.20 % 
-FrontEnd                 2 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
-muxi-101                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+uptime-kuma              6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+FrontEnd                 4 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
+ccnubox_rn               3 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+muxi-101                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+ccnubox-be               1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 💻 Operating System: 
-Mac                      20 hrs 54 mins      ███████████████████████░░   92.33 % 
-Windows                  1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+Mac                      19 hrs 33 mins      ██████████████████████░░░   89.78 % 
+Windows                  2 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/06/2025 00:53:23 UTC
+ Last Updated on 09/06/2025 00:51:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
