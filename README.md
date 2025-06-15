@@ -67,17 +67,15 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-465%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 118.1 kB Used in GitHub's Storage 
- > 
-> 🏆 441 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,26 +110,26 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 44 mins      █████████████████████░░░░   84.38 % 
-TypeScript               1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    14 hrs 18 mins      ████████████████████████░   94.03 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Edge                     15 hrs 22 mins      ██████████████████████░░░   88.03 % 
-Cursor                   2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+Edge                     14 hrs 49 mins      ████████████████████████░   97.43 % 
+Cursor                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-muxi-101                 7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   41.09 % 
-VMind                    4 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-FrontEnd                 2 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-ccnubox_rn               1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+muxi-101                 6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
+VMind                    5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
+FrontEnd                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
+muxi_official_website    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 💻 Operating System: 
-Mac                      12 hrs 15 mins      ██████████████████░░░░░░░   70.18 % 
-Windows                  5 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   29.82 % 
+Mac                      9 hrs 44 mins       ████████████████░░░░░░░░░   64.01 % 
+Windows                  5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.99 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +145,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2025 00:46:00 UTC
+ Last Updated on 15/06/2025 00:54:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
