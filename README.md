@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-466%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,6 +76,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 118.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 441 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,26 +112,25 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 18 mins      ████████████████████████░   94.03 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-TypeScript               15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
-MDX                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    14 hrs 21 mins      ████████████████████████░   95.75 % 
+Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     14 hrs 49 mins      ████████████████████████░   97.43 % 
-Cursor                   23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Edge                     14 hrs 44 mins      █████████████████████████   98.29 % 
+Cursor                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-muxi-101                 6 hrs 29 mins       ███████████░░░░░░░░░░░░░░   42.60 % 
-VMind                    5 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   33.92 % 
-FrontEnd                 1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.13 % 
-muxi_official_website    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+VMind                    6 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.54 % 
+muxi-101                 6 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+oh-my-tuna               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+mrpack-install           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 💻 Operating System: 
-Mac                      9 hrs 44 mins       ████████████████░░░░░░░░░   64.01 % 
-Windows                  5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   35.99 % 
+Mac                      9 hrs 13 mins       ███████████████░░░░░░░░░░   61.49 % 
+Windows                  5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.51 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +146,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/06/2025 00:54:41 UTC
+ Last Updated on 16/06/2025 00:50:08 UTC
 <!--END_SECTION:waka-->
 
 </details>
