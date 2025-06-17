@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-469%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -88,20 +88,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                595 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-🌆 Daytime                1561 commits        ██████████░░░░░░░░░░░░░░░   38.22 % 
-🌃 Evening                1626 commits        ██████████░░░░░░░░░░░░░░░   39.81 % 
+🌞 Morning                596 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
+🌆 Daytime                1561 commits        ██████████░░░░░░░░░░░░░░░   38.21 % 
+🌃 Evening                1626 commits        ██████████░░░░░░░░░░░░░░░   39.80 % 
 🌙 Night                  302 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   705 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-Tuesday                  920 commits         ██████░░░░░░░░░░░░░░░░░░░   22.53 % 
+Monday                   706 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+Tuesday                  920 commits         ██████░░░░░░░░░░░░░░░░░░░   22.52 % 
 Wednesday                362 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
 Thursday                 268 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
 Friday                   696 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-Saturday                 548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Saturday                 548 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
 Sunday                   585 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
 ```
 
@@ -112,25 +112,24 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 21 mins      ████████████████████████░   95.75 % 
-Text                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    12 hrs 42 mins      ████████████████████████░   97.15 % 
+Text                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     14 hrs 44 mins      █████████████████████████   98.29 % 
-Cursor                   15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Edge                     13 hrs 4 mins       █████████████████████████   99.98 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🐱‍💻 Projects: 
-VMind                    6 hrs 58 mins       ████████████░░░░░░░░░░░░░   46.54 % 
-muxi-101                 6 hrs 24 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
-ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-oh-my-tuna               9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-mrpack-install           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VMind                    8 hrs 8 mins        ████████████████░░░░░░░░░   62.22 % 
+muxi-101                 3 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+ViaFabric                1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+mrpack-install           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+MidnightControls         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 💻 Operating System: 
-Mac                      9 hrs 13 mins       ███████████████░░░░░░░░░░   61.49 % 
-Windows                  5 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   38.51 % 
+Mac                      7 hrs 31 mins       ██████████████░░░░░░░░░░░   57.46 % 
+Windows                  5 hrs 33 mins       ███████████░░░░░░░░░░░░░░   42.54 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +145,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/06/2025 00:50:08 UTC
+ Last Updated on 17/06/2025 00:47:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
