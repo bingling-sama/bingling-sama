@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-470%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2034%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,23 +112,22 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 55 mins      ████████████████████████░   97.61 % 
-Text                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    14 hrs 28 mins      █████████████████████████   98.09 % 
+Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-Edge                     15 hrs 17 mins      █████████████████████████   100.00 % 
+Edge                     14 hrs 45 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VMind                    12 hrs 22 mins      ████████████████████░░░░░   80.94 % 
-muxi-101                 1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-mrpack-install           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VMind                    12 hrs 38 mins      █████████████████████░░░░   85.67 % 
+ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+Mineearthquake_echarts   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+yggdralt-front           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 MidnightControls         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      10 hrs 13 mins      █████████████████░░░░░░░░   66.82 % 
-Windows                  5 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Mac                      10 hrs 31 mins      ██████████████████░░░░░░░   71.28 % 
+Windows                  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +143,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2025 00:48:03 UTC
+ Last Updated on 19/06/2025 00:48:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
