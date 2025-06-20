@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-474%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-475%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,38 +112,38 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 28 mins      █████████████████████████   98.09 % 
-Text                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Other                    13 hrs 13 mins      █████████████████████████   99.78 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-Edge                     14 hrs 45 mins      █████████████████████████   100.00 % 
+Edge                     13 hrs 14 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-VMind                    12 hrs 38 mins      █████████████████████░░░░   85.67 % 
-ViaFabric                1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Mineearthquake_echarts   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-yggdralt-front           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-MidnightControls         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+VMind                    9 hrs 48 mins       ███████████████████░░░░░░   74.02 % 
+Mineearthquake_echarts   3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+yggdralt-front           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+qemu-ios                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+nolebase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      10 hrs 31 mins      ██████████████████░░░░░░░   71.28 % 
-Windows                  4 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Mac                      10 hrs 40 mins      ████████████████████░░░░░   80.57 % 
+Windows                  2 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   38.18 % 
-Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+TypeScript               21 repos            ██████████░░░░░░░░░░░░░░░   38.89 % 
+Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+C                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
 
 
- Last Updated on 19/06/2025 00:48:43 UTC
+ Last Updated on 20/06/2025 00:47:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
