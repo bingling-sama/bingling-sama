@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,26 +112,26 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 20 mins      ███████████████████████░░   91.49 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
-HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    11 hrs 42 mins      ███████████████████████░░   90.38 % 
+TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Edge                     14 hrs 1 min        ████████████████████████░   96.20 % 
-Cursor                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Edge                     12 hrs 24 mins      ████████████████████████░   95.72 % 
+Cursor                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🐱‍💻 Projects: 
-VMind                    8 hrs 37 mins       ███████████████░░░░░░░░░░   59.11 % 
-Mineearthquake_echarts   4 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   28.65 % 
-ccnubox-website          1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-offical_site_vite        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-offical_service          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+VMind                    6 hrs 59 mins       █████████████░░░░░░░░░░░░   53.95 % 
+Mineearthquake_echarts   4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
+ccnubox-website          1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+offical_site_vite        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+offical_service          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Mac                      12 hrs 40 mins      ██████████████████████░░░   86.91 % 
-Windows                  1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Mac                      11 hrs 49 mins      ███████████████████████░░   91.31 % 
+Windows                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/06/2025 00:53:48 UTC
+ Last Updated on 23/06/2025 00:51:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
