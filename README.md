@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-481%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-482%20hrs%207%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -77,7 +77,7 @@
 
 > 📦 118.1 kB Used in GitHub's Storage 
  > 
-> 🏆 442 Contributions in the Year 2025
+> 🏆 443 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,26 +112,27 @@ Sunday                   585 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 42 mins      ███████████████████████░░   90.38 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JavaScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
-HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Other                    15 hrs              ███████████████████░░░░░░   75.49 % 
+PHP                      2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+TypeScript               1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+JavaScript               20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.72 % 
 
 🔥 Editors: 
-Edge                     12 hrs 24 mins      ████████████████████████░   95.72 % 
-Cursor                   33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Edge                     16 hrs 58 mins      █████████████████████░░░░   85.37 % 
+VS Code                  1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Cursor                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 
 🐱‍💻 Projects: 
-VMind                    6 hrs 59 mins       █████████████░░░░░░░░░░░░   53.95 % 
-Mineearthquake_echarts   4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.26 % 
-ccnubox-website          1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-offical_site_vite        11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-offical_service          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VMind                    6 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
+Mineearthquake_echarts   4 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+is                       4 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+ccnubox-website          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+muxi_official_website    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 💻 Operating System: 
-Mac                      11 hrs 49 mins      ███████████████████████░░   91.31 % 
-Windows                  1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Mac                      18 hrs 51 mins      ████████████████████████░   94.84 % 
+Windows                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +148,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2025 00:51:59 UTC
+ Last Updated on 24/06/2025 00:48:09 UTC
 <!--END_SECTION:waka-->
 
 </details>
