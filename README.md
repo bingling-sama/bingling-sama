@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-585%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-590%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -76,6 +76,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 304.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 501 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -110,27 +112,27 @@ Sunday                   632 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    45 hrs 4 mins       ██████████████████░░░░░░░   73.34 % 
-Python                   5 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+Other                    45 hrs 3 mins       ██████████████████░░░░░░░   73.26 % 
+Python                   5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
 JavaScript               1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Text                     1 hr 29 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TypeScript               1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Text                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+TypeScript               1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Edge                     49 hrs 16 mins      ████████████████████░░░░░   80.18 % 
-VS Code                  7 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Edge                     49 hrs 8 mins       ████████████████████░░░░░   79.90 % 
+VS Code                  7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
 Cursor                   4 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 
 🐱‍💻 Projects: 
-annotation_tool          10 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-is                       9 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-ccnubox_rn               8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-day07                    4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+annotation_tool          10 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.67 % 
+is                       10 hrs 18 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+ccnubox_rn               8 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+day07                    4 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
 Assembly                 3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
 
 💻 Operating System: 
-Mac                      53 hrs 6 mins       ██████████████████████░░░   86.40 % 
-Windows                  8 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Mac                      52 hrs 58 mins      ██████████████████████░░░   86.12 % 
+Windows                  8 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +148,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/07/2025 00:46:10 UTC
+ Last Updated on 06/07/2025 00:54:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
