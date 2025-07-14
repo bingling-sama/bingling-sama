@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-640%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,26 +112,26 @@ Sunday                   638 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    32 hrs 28 mins      ██████████████████░░░░░░░   73.18 % 
-TypeScript               6 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-JavaScript               1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
-OASv3-yaml               53 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Other                    27 hrs 54 mins      ██████████████████░░░░░░░   73.27 % 
+TypeScript               5 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+JavaScript               1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Python                   1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+OASv3-yaml               53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-Edge                     35 hrs 50 mins      ████████████████████░░░░░   80.79 % 
-VS Code                  8 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Edge                     31 hrs 15 mins      █████████████████████░░░░   82.05 % 
+VS Code                  6 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
 
 🐱‍💻 Projects: 
-ctf                      7 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-bt-rubber                7 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-ccnubox_rn               5 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
-imd-seat-fe              3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-FrontEnd                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+ctf                      7 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+bt-rubber                7 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+FrontEnd                 2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+1k5                      2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+youtizhilian             2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
 
 💻 Operating System: 
-Mac                      39 hrs 35 mins      ██████████████████████░░░   89.22 % 
-Windows                  4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Mac                      33 hrs 8 mins       ██████████████████████░░░   87.00 % 
+Windows                  4 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2025 00:56:27 UTC
+ Last Updated on 14/07/2025 00:53:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
