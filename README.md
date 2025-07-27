@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-668%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,26 +112,26 @@ Sunday                   641 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 10 mins      ███████████████████░░░░░░   77.83 % 
-TypeScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Ignore List              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-JSON                     36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Go                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Other                    14 hrs 22 mins      ██████████████████████░░░   87.34 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Ignore List              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+Go                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 
 🔥 Editors: 
-Edge                     13 hrs 41 mins      ██████████████████████░░░   87.51 % 
-Cursor                   1 hr 57 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Edge                     15 hrs 27 mins      ███████████████████████░░   93.84 % 
+Cursor                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🐱‍💻 Projects: 
-SkinViewer               4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-CSEDU                    2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.93 % 
-bt-rubber                2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.91 % 
-FrontEnd                 2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
-UserService              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+FrontEnd                 6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
+SkinViewer               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+CSEDU                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+UserService              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
+Mac-list                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 💻 Operating System: 
-Mac                      14 hrs              ██████████████████████░░░   89.47 % 
-Windows                  1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Mac                      15 hrs 7 mins       ███████████████████████░░   91.83 % 
+Windows                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2025 00:49:07 UTC
+ Last Updated on 27/07/2025 00:57:10 UTC
 <!--END_SECTION:waka-->
 
 </details>
