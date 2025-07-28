@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-669%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-673%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -76,8 +76,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 305.5 kB Used in GitHub's Storage 
- > 
-> 🏆 526 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -112,42 +110,42 @@ Sunday                   641 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 22 mins      ██████████████████████░░░   87.34 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-Ignore List              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Go                       14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Other                    17 hrs 13 mins      ███████████████████████░░   93.90 % 
+Ignore List              39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+TypeScript               25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Go                       1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-Edge                     15 hrs 27 mins      ███████████████████████░░   93.84 % 
-Cursor                   1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Edge                     18 hrs 8 mins       █████████████████████████   98.87 % 
+Cursor                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 
 🐱‍💻 Projects: 
-FrontEnd                 6 hrs 23 mins       ██████████░░░░░░░░░░░░░░░   38.82 % 
-SkinViewer               3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-CSEDU                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-UserService              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-Mac-list                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+FrontEnd                 5 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   31.17 % 
+Mac-list                 5 hrs 32 mins       ████████░░░░░░░░░░░░░░░░░   30.19 % 
+CSEDU                    2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+SkinViewer               2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+UserService              1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
 
 💻 Operating System: 
-Mac                      15 hrs 7 mins       ███████████████████████░░   91.83 % 
-Windows                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Mac                      17 hrs 16 mins      ████████████████████████░   94.15 % 
+Windows                  1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            ██████████░░░░░░░░░░░░░░░   40.35 % 
-Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 % 
-Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+TypeScript               22 repos            ██████████░░░░░░░░░░░░░░░   39.29 % 
+Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Swift                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
 ```
 
 
 
 
- Last Updated on 27/07/2025 00:57:10 UTC
+ Last Updated on 28/07/2025 00:55:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
