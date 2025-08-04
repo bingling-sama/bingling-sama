@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-699%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-703%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,28 +112,28 @@ Sunday                   660 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    24 hrs 57 mins      █████████████████████░░░░   83.15 % 
-Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-TypeScript               1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
-TOML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Other                    22 hrs 5 mins       ████████████████████░░░░░   81.38 % 
+Markdown                 2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+TOML                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-Edge                     27 hrs 46 mins      ███████████████████████░░   92.53 % 
-Cursor                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Edge                     24 hrs 53 mins      ███████████████████████░░   91.71 % 
+Cursor                   2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-Ventoy                   6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
-Mac-list                 5 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.17 % 
-rust-sdk                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-mistral.rs               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-SkinViewer               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+Ventoy                   6 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+BetterDisplay            2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+rust-sdk                 2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+mistral.rs               1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+SkinViewer               1 hr 48 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 💻 Operating System: 
-Mac                      21 hrs 39 mins      ██████████████████░░░░░░░   72.17 % 
-Linux                    5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
-Windows                  2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
+Mac                      18 hrs 33 mins      █████████████████░░░░░░░░   68.34 % 
+Linux                    5 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+Windows                  2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2025 00:58:13 UTC
+ Last Updated on 04/08/2025 00:57:49 UTC
 <!--END_SECTION:waka-->
 
 </details>
