@@ -67,7 +67,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-718%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-721%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -112,28 +112,28 @@ Sunday                   660 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 34 mins      █████████████████████░░░░   82.39 % 
-TypeScript               2 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-Rust                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
-Git Config               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Other                    15 hrs 5 mins       █████████████████████░░░░   82.22 % 
+TypeScript               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Rust                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Edge                     19 hrs 13 mins      ███████████████████████░░   90.09 % 
-Cursor                   1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Edge                     17 hrs 13 mins      ███████████████████████░░   93.86 % 
+Cursor                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+VS Code                  13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-mesa-25.2.0-rc3          3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-BetterDisplay            3 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
-bt-rubber                2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-browser-tools-mcp        2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Hyprland-Dots            1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+mesa-25.2.0-rc3          3 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.95 % 
+browser-tools-mcp        2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+BetterDisplay            2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Hyprland-Dots            1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Waybar                   1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 
 💻 Operating System: 
-Mac                      13 hrs 12 mins      ███████████████░░░░░░░░░░   61.94 % 
-Linux                    7 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.35 % 
-Windows                  1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Mac                      11 hrs 3 mins       ███████████████░░░░░░░░░░   60.24 % 
+Linux                    6 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.94 % 
+Windows                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 00:47:41 UTC
+ Last Updated on 10/08/2025 00:56:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
