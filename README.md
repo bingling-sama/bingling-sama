@@ -154,25 +154,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 </details>
 
-### 🌟 Featured Projects
-
-Here are some of my notable projects:
-
-1. 🌐 [CrashMC.com](https://github.com/GlobeMC/crashmc.com)
-   - Description: Official website for GlobeMC's CrashMC server
-   - Tech Stack: Vue.js, Stylus, TypeScript
-   - [Source Code](https://github.com/GlobeMC/crashmc.com)
-
-2. 🎨 [System UI](https://github.com/bingling-sama/system-ui)
-   - Description: A customizable UI component library
-   - Tech Stack: React, TypeScript, SCSS
-   - [Source Code](https://github.com/bingling-sama/system-ui)
-
-3. 📱 [Muxi Team Auditor Frontend](https://github.com/muxi-mini-project/2025-Muxi-Team-auditor-FrontEnd)
-   - Description: Frontend for the Muxi Team auditing system
-   - Tech Stack: React, TypeScript, Frontend Development
-   - [Source Code](https://github.com/muxi-mini-project/2025-Muxi-Team-auditor-FrontEnd)
-
 ### 🤝 Open Source Contributions
 
 - Active contributor to various open-source projects
