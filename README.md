@@ -68,6 +68,8 @@
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2020%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.5%20million%20lines%20of%20code-blue)
@@ -76,7 +78,7 @@
 
 > 📦 531.6 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 596 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -111,28 +113,28 @@ Sunday                   688 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 1 min        ███████████████░░░░░░░░░░   60.31 % 
-Rust                     2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-TypeScript               2 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-TOML                     57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Markdown                 31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Other                    9 hrs 17 mins       ███████████████░░░░░░░░░░   58.74 % 
+Rust                     2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+TypeScript               2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+TOML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Markdown                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
 
 🔥 Editors: 
-Edge                     11 hrs 46 mins      ██████████████████░░░░░░░   70.90 % 
-VS Code                  3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Cursor                   1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Edge                     11 hrs 21 mins      ██████████████████░░░░░░░   71.82 % 
+VS Code                  3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
+Cursor                   1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
 
 🐱‍💻 Projects: 
-eidolon                  6 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   41.56 % 
-ccnubox_rn               2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
-id                       1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-crashmc.com              1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Terracotta               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+eidolon                  5 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   37.70 % 
+id                       3 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   24.69 % 
+ccnubox_rn               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+crashmc.com              1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+Terracotta               1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 💻 Operating System: 
-Mac                      10 hrs 57 mins      ████████████████░░░░░░░░░   65.89 % 
-Linux                    4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Windows                  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Mac                      10 hrs 44 mins      █████████████████░░░░░░░░   67.95 % 
+Linux                    4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+Windows                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +150,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2025 00:42:49 UTC
+ Last Updated on 31/08/2025 00:49:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
