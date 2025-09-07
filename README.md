@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-808%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-814%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -113,28 +113,28 @@ Sunday                   731 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 15 mins      ███████████████░░░░░░░░░░   60.44 % 
-TypeScript               7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
-Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Makefile                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Other                    16 hrs 3 mins       ███████████████░░░░░░░░░░   58.93 % 
+TypeScript               7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+Kotlin                   35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Makefile                 30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
 
 🔥 Editors: 
-Edge                     21 hrs 29 mins      ███████████████████░░░░░░   75.21 % 
-Cursor                   6 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
-Android Studio           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Edge                     19 hrs 57 mins      ██████████████████░░░░░░░   73.23 % 
+Cursor                   7 hrs 7 mins        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Android Studio           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               17 hrs 34 mins      ███████████████░░░░░░░░░░   61.51 % 
-id                       6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-react-native-webview     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-clash-party              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
-crashmc.com              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+ccnubox_rn               18 hrs 15 mins      █████████████████░░░░░░░░   67.00 % 
+id                       4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+react-native-webview     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+clash-party              56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+crashmc.com              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      27 hrs 37 mins      ████████████████████████░   96.72 % 
-Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Mac                      26 hrs 19 mins      ████████████████████████░   96.56 % 
+Windows                  50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Linux                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/09/2025 00:43:02 UTC
+ Last Updated on 07/09/2025 00:48:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
