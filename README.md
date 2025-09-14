@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-831%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-836%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -77,8 +77,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 531.6 kB Used in GitHub's Storage 
- > 
-> 🏆 623 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -113,26 +111,26 @@ Sunday                   703 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 51 mins      ████████████████░░░░░░░░░   65.82 % 
-TypeScript               7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   31.61 % 
-Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    15 hrs 39 mins      █████████████████░░░░░░░░   67.61 % 
+TypeScript               6 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+Markdown                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+Image (svg)              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🔥 Editors: 
-Edge                     18 hrs 36 mins      █████████████████████░░░░   82.43 % 
-Cursor                   3 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
+Edge                     19 hrs 14 mins      █████████████████████░░░░   83.02 % 
+Cursor                   3 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               15 hrs 13 mins      █████████████████░░░░░░░░   67.43 % 
-front-end                2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-FeedBack-Backend         1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-cloc                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-CodeGenerator            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+ccnubox_rn               14 hrs 42 mins      ████████████████░░░░░░░░░   63.49 % 
+front-end                3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+FeedBack-Backend         1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+cloc                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
+CodeGenerator            42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 
 💻 Operating System: 
-Mac                      22 hrs 26 mins      █████████████████████████   99.48 % 
-Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Mac                      23 hrs 3 mins       █████████████████████████   99.49 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +146,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2025 00:41:47 UTC
+ Last Updated on 14/09/2025 00:47:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
