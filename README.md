@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,26 +113,26 @@ Sunday                   750 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 31 mins      ███████████████████░░░░░░   75.13 % 
-TypeScript               4 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Image (svg)              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-TSX                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-Less                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Other                    16 hrs 53 mins      ████████████████████░░░░░   80.26 % 
+TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Image (svg)              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Less                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TSX                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Edge                     22 hrs 5 mins       █████████████████████░░░░   84.97 % 
-Cursor                   3 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Edge                     18 hrs 27 mins      ██████████████████████░░░   87.75 % 
+Cursor                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               14 hrs 26 mins      ██████████████░░░░░░░░░░░   55.56 % 
-FrontEnd                 5 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
-101                      3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-front-end                1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-MuXi-Fresh-Fe-2.0        41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+ccnubox_rn               9 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
+FrontEnd                 5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+101                      3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+front-end                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
+MuXi-Fresh-Fe-2.0        1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
 
 💻 Operating System: 
-Mac                      25 hrs 43 mins      █████████████████████████   98.98 % 
-Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Mac                      20 hrs 35 mins      ████████████████████████░   97.85 % 
+Linux                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2025 00:50:23 UTC
+ Last Updated on 02/10/2025 00:43:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
