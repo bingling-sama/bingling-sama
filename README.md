@@ -68,17 +68,15 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2054%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 531.7 kB Used in GitHub's Storage 
+> 📦 531.6 kB Used in GitHub's Storage 
  > 
-> 🏆 682 Contributions in the Year 2025
+> 🏆 683 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -86,55 +84,6 @@
  > 
 > 🔑 9 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                995 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-🌆 Daytime                2134 commits        █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌃 Evening                2105 commits        █████████░░░░░░░░░░░░░░░░   37.34 % 
-🌙 Night                  403 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1064 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-Tuesday                  1303 commits        ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
-Wednesday                523 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Thursday                 401 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-Friday                   947 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-Saturday                 649 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
-Sunday                   750 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    16 hrs 53 mins      ████████████████████░░░░░   80.26 % 
-TypeScript               2 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Image (svg)              42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Less                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-TSX                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-
-🔥 Editors: 
-Edge                     18 hrs 27 mins      ██████████████████████░░░   87.75 % 
-Cursor                   2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-
-🐱‍💻 Projects: 
-ccnubox_rn               9 hrs 30 mins       ███████████░░░░░░░░░░░░░░   45.20 % 
-FrontEnd                 5 hrs 28 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
-101                      3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-front-end                1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-MuXi-Fresh-Fe-2.0        1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-
-💻 Operating System: 
-Mac                      20 hrs 35 mins      ████████████████████████░   97.85 % 
-Linux                    27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -148,7 +97,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 00:43:40 UTC
+ Last Updated on 03/10/2025 00:43:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
