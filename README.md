@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-899%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-900%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -113,28 +113,28 @@ Sunday                   751 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 14 mins       ████████████████░░░░░░░░░   63.91 % 
-TypeScript               1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
-Rust                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-TOML                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Other                    4 hrs 2 mins        ██████████████████░░░░░░░   72.57 % 
+Rust                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+TOML                     22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
 
 🔥 Editors: 
-Edge                     6 hrs 45 mins       █████████████████████░░░░   82.36 % 
-Cursor                   1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+Edge                     5 hrs 13 mins       ███████████████████████░░   93.47 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+Cursor                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 
 🐱‍💻 Projects: 
-MuXi-Fresh-Fe-2.0        2 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   32.75 % 
-ccnubox_rn               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-eidolon                  38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
-Arch-Hyprland            28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-MuXiFresh-Be-2.0         25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+MuXi-Fresh-Fe-2.0        2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   37.23 % 
+ccnubox_rn               39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+eidolon                  38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Arch-Hyprland            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
+MuXiFresh-Be-2.0         25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
 
 💻 Operating System: 
-Mac                      6 hrs 45 mins       █████████████████████░░░░   82.48 % 
-Linux                    1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Mac                      4 hrs 8 mins        ███████████████████░░░░░░   74.25 % 
+Linux                    1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 00:45:33 UTC
+ Last Updated on 07/10/2025 00:44:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
