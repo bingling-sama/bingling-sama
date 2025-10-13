@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-902%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -113,24 +113,24 @@ Sunday                   811 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████████░░░░   83.57 % 
-Rust                     47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+Other                    3 hrs 51 mins       ██████████████████████░░░   86.42 % 
+Rust                     36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
 
 🔥 Editors: 
-Edge                     4 hrs 39 mins       ████████████████████████░   97.38 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+Edge                     4 hrs 19 mins       ████████████████████████░   97.19 % 
+VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 
 🐱‍💻 Projects: 
-Mole                     2 hrs 37 mins       ██████████████░░░░░░░░░░░   54.65 % 
-eidolon                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-authlib-injector         22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-forum-fe                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-LaunchNext               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Mole                     2 hrs 37 mins       ███████████████░░░░░░░░░░   58.77 % 
+eidolon                  57 mins             █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+forum-fe                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+LaunchNext               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+LaunchNow                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Mac                      4 hrs 2 mins        █████████████████████░░░░   84.27 % 
-Linux                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Mac                      3 hrs 42 mins       █████████████████████░░░░   83.08 % 
+Linux                    45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/10/2025 00:47:04 UTC
+ Last Updated on 13/10/2025 00:49:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
