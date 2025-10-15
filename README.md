@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-904%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-905%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -113,28 +113,26 @@ Sunday                   811 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 20 mins       ████████████████████░░░░░   79.62 % 
-Rust                     38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-YAML                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-XML                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    3 hrs 53 mins       ███████████████████░░░░░░   77.59 % 
+XML                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+Rust                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🔥 Editors: 
-Edge                     4 hrs 51 mins       ██████████████████████░░░   89.16 % 
-Cursor                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-VS Code                  7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+Edge                     4 hrs 33 mins       ███████████████████████░░   90.72 % 
+Cursor                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 🐱‍💻 Projects: 
-Mole                     2 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.02 % 
-eidolon                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-forum-fe                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-ccnubox_rn               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-LaunchNext               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+Mole                     2 hrs 20 mins       ████████████░░░░░░░░░░░░░   46.77 % 
+ccnubox_rn               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+forum-fe                 38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Front-End-Admin          32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+LaunchNext               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 41 mins       ██████████████████████░░░   86.18 % 
-Linux                    45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Mac                      4 hrs 55 mins       █████████████████████████   98.20 % 
+Windows                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +148,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/10/2025 00:45:57 UTC
+ Last Updated on 15/10/2025 00:47:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
