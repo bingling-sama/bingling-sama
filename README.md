@@ -76,7 +76,7 @@
 
 > 📦 531.7 kB Used in GitHub's Storage 
  > 
-> 🏆 722 Contributions in the Year 2025
+> 🏆 724 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -84,6 +84,55 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1471 commits        █████░░░░░░░░░░░░░░░░░░░░   20.32 % 
+🌆 Daytime                2819 commits        ██████████░░░░░░░░░░░░░░░   38.94 % 
+🌃 Evening                2470 commits        █████████░░░░░░░░░░░░░░░░   34.12 % 
+🌙 Night                  480 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1401 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Tuesday                  1691 commits        ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Wednesday                739 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Thursday                 572 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Friday                   1232 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
+Saturday                 727 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
+Sunday                   878 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    8 hrs 58 mins       ██████████████░░░░░░░░░░░   55.56 % 
+TypeScript               2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+YAML                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
+Shell                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+
+🔥 Editors: 
+Edge                     11 hrs 45 mins      ██████████████████░░░░░░░   72.80 % 
+Cursor                   4 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   27.20 % 
+
+🐱‍💻 Projects: 
+ccnubox_rn               9 hrs 38 mins       ███████████████░░░░░░░░░░   59.73 % 
+ccnubox-website          1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+eas-build                1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
+lib                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+swagger2openapi          1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+
+💻 Operating System: 
+Mac                      16 hrs 8 mins       █████████████████████████   99.97 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,7 +146,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2025 00:51:42 UTC
+ Last Updated on 04/11/2025 00:47:13 UTC
 <!--END_SECTION:waka-->
 
 </details>
