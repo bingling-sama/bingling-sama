@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-956%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -113,26 +113,26 @@ Sunday                   879 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 30 mins       ████████████████░░░░░░░░░   63.43 % 
-TypeScript               3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   30.11 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+Other                    7 hrs 31 mins       ████████████████░░░░░░░░░   62.05 % 
+TypeScript               3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-Edge                     8 hrs 30 mins       ██████████████████░░░░░░░   71.91 % 
-Cursor                   3 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   28.09 % 
+Edge                     8 hrs 28 mins       █████████████████░░░░░░░░   69.91 % 
+Cursor                   3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               6 hrs 54 mins       ███████████████░░░░░░░░░░   58.38 % 
-MuxiHomework             2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-lib                      1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-hcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-forum-fe                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+ccnubox_rn               7 hrs 14 mins       ███████████████░░░░░░░░░░   59.76 % 
+MuxiHomework             2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
+lib                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+hcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+forum-fe                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
 
 💻 Operating System: 
-Mac                      11 hrs 50 mins      █████████████████████████   99.95 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Mac                      12 hrs 6 mins       █████████████████████████   99.96 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2025 00:45:05 UTC
+ Last Updated on 09/11/2025 00:50:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
