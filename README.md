@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-959%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-960%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -113,25 +113,24 @@ Sunday                   879 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 31 mins       ████████████████░░░░░░░░░   62.05 % 
-TypeScript               3 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.09 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Other                    7 hrs 58 mins       ██████████████░░░░░░░░░░░   56.27 % 
+TypeScript               5 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   41.18 % 
+HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     8 hrs 28 mins       █████████████████░░░░░░░░   69.91 % 
-Cursor                   3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
+Edge                     8 hrs 52 mins       ████████████████░░░░░░░░░   62.61 % 
+Cursor                   5 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   37.39 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               7 hrs 14 mins       ███████████████░░░░░░░░░░   59.76 % 
-MuxiHomework             2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-lib                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-hcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
-forum-fe                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+ccnubox_rn               9 hrs 22 mins       █████████████████░░░░░░░░   66.21 % 
+MuxiHomework             2 hrs 53 mins       █████░░░░░░░░░░░░░░░░░░░░   20.48 % 
+lib                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
+react-native-view-shot   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
+hcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 
 💻 Operating System: 
-Mac                      12 hrs 6 mins       █████████████████████████   99.96 % 
+Mac                      14 hrs 9 mins       █████████████████████████   99.96 % 
 Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -148,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2025 00:50:54 UTC
+ Last Updated on 10/11/2025 00:50:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
