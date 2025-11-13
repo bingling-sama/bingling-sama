@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-963%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-965%20hrs%2023%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -78,7 +78,7 @@
 
 > 📦 531.9 kB Used in GitHub's Storage 
  > 
-> 🏆 732 Contributions in the Year 2025
+> 🏆 733 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -89,19 +89,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1533 commits        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
-🌆 Daytime                2924 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
+🌞 Morning                1532 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌆 Daytime                2925 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
 🌃 Evening                2531 commits        ████████░░░░░░░░░░░░░░░░░   33.82 % 
-🌙 Night                  495 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+🌙 Night                  496 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1449 commits        █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Tuesday                  1749 commits        ██████░░░░░░░░░░░░░░░░░░░   23.37 % 
-Wednesday                768 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Monday                   1448 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+Tuesday                  1750 commits        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Wednesday                769 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 Thursday                 596 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
-Friday                   1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Friday                   1280 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
 Saturday                 740 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.89 % 
 Sunday                   901 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
@@ -113,25 +113,26 @@ Sunday                   901 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 28 mins       ███████████████░░░░░░░░░░   58.66 % 
-TypeScript               5 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.22 % 
-HTML                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    7 hrs 27 mins       ██████████████░░░░░░░░░░░   56.73 % 
+TypeScript               5 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   38.49 % 
+Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+HTML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Vue.js                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-Edge                     9 hrs 13 mins       ████████████████░░░░░░░░░   63.83 % 
-Cursor                   5 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+Edge                     8 hrs 9 mins        ████████████████░░░░░░░░░   62.06 % 
+Cursor                   4 hrs 56 mins       █████████░░░░░░░░░░░░░░░░   37.57 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               9 hrs 8 mins        ████████████████░░░░░░░░░   63.32 % 
-MuxiHomework             3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
-lib                      51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-react-native-view-shot   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-hcl                      21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+ccnubox_rn               8 hrs 26 mins       ████████████████░░░░░░░░░   64.24 % 
+MuxiHomework             2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+lib                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.10 % 
+react-native-view-shot   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+FrontEnd                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Mac                      14 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +148,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025 00:49:44 UTC
+ Last Updated on 13/11/2025 00:48:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
