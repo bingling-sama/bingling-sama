@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-975%20hrs%2024%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,15 +90,15 @@
 
 ```text
 🌞 Morning                1536 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-🌆 Daytime                2930 commits        ██████████░░░░░░░░░░░░░░░   39.03 % 
+🌆 Daytime                2930 commits        ██████████░░░░░░░░░░░░░░░   39.02 % 
 🌃 Evening                2537 commits        ████████░░░░░░░░░░░░░░░░░   33.79 % 
-🌙 Night                  505 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌙 Night                  506 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1448 commits        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Tuesday                  1757 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+Monday                   1448 commits        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+Tuesday                  1758 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
 Wednesday                775 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 Thursday                 598 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
 Friday                   1283 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
@@ -113,27 +113,25 @@ Sunday                   906 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 42 mins       ████████████████░░░░░░░░░   62.26 % 
-TypeScript               1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-YAML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Go                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Other                    5 hrs 24 mins       ████████████████░░░░░░░░░   63.04 % 
+TypeScript               1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+YAML                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+Go                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🔥 Editors: 
-Edge                     7 hrs 1 min         ███████████████████░░░░░░   76.67 % 
-Cursor                   1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   21.60 % 
-Android Studio           9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Edge                     6 hrs 36 mins       ███████████████████░░░░░░   76.95 % 
+Cursor                   1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               3 hrs               ████████░░░░░░░░░░░░░░░░░   32.87 % 
-imd-seat-fe              1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-FrontEnd                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-muxi-fe-test-sever       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-id-front                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+ccnubox_rn               2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   30.52 % 
+imd-seat-fe              1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+FrontEnd                 1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+muxi-fe-test-sever       1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+id-front                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
 
 💻 Operating System: 
-Mac                      8 hrs 53 mins       ████████████████████████░   96.99 % 
-Windows                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Mac                      8 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/11/2025 00:47:32 UTC
+ Last Updated on 21/11/2025 00:48:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
