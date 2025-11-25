@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-981%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-984%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -113,25 +113,25 @@ Sunday                   908 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs               ███████████████░░░░░░░░░░   59.57 % 
-Markdown                 2 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-TypeScript               2 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-YAML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other                    9 hrs 51 mins       ████████████████░░░░░░░░░   62.26 % 
+Markdown                 2 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+TypeScript               2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Go                       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 
 🔥 Editors: 
-Edge                     13 hrs 25 mins      ██████████████████████░░░   88.73 % 
-Cursor                   1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Edge                     14 hrs 15 mins      ███████████████████████░░   90.08 % 
+Cursor                   1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
 
 🐱‍💻 Projects: 
-id                       3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.48 % 
-ccnubox_rn               1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-imd-seat-fe              1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-FE-test                  1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
-muxi-fe-test-sever       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+id                       3 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
+eidolon                  1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+imd-seat-fe              1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+FE-test                  1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+ccnubox_rn               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
 
 💻 Operating System: 
-Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 50 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2025 00:52:55 UTC
+ Last Updated on 25/11/2025 00:47:47 UTC
 <!--END_SECTION:waka-->
 
 </details>
