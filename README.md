@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-988%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-990%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
@@ -113,25 +113,26 @@ Sunday                   924 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 35 mins       ██████████████░░░░░░░░░░░   57.54 % 
-Go                       1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Other                    5 hrs 30 mins       ██████████████░░░░░░░░░░░   54.88 % 
+Go                       2 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+TypeScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+JavaScript               51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+Rust                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 🔥 Editors: 
-Edge                     12 hrs 43 mins      ████████████████████████░   96.37 % 
-Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Edge                     9 hrs 34 mins       ████████████████████████░   95.45 % 
+Cursor                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 
 🐱‍💻 Projects: 
-id                       4 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.94 % 
-FE-test                  2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-eidolon                  2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-wire                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-gt3-server-golang-gin-byp51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
+id                       3 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   37.48 % 
+eidolon                  2 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+FE-test                  1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+gt3-server-golang-gin-byp50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+ccnubox_rn               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
 
 💻 Operating System: 
-Mac                      13 hrs 12 mins      █████████████████████████   100.00 % 
+Mac                      9 hrs 48 mins       ████████████████████████░   97.74 % 
+Windows                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +148,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2025 00:46:54 UTC
+ Last Updated on 30/11/2025 00:56:39 UTC
 <!--END_SECTION:waka-->
 
 </details>
