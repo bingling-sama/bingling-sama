@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-999%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,28 +113,27 @@ Sunday                   931 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.26 % 
-TypeScript               2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.00 % 
-Kotlin                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-XML                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Java                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 % 
+Other                    4 hrs 11 mins       █████████████░░░░░░░░░░░░   52.83 % 
+TypeScript               2 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   31.43 % 
+Kotlin                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
+XML                      28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Edge                     4 hrs 26 mins       ██████████████░░░░░░░░░░░   55.42 % 
-Cursor                   2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   28.71 % 
-Android Studio           56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-IntelliJ IDEA            20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+Edge                     4 hrs 41 mins       ███████████████░░░░░░░░░░   59.12 % 
+Cursor                   2 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
+Android Studio           56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               5 hrs 41 mins       ██████████████████░░░░░░░   71.03 % 
-authlib-injector         1 hr 16 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-typescript-go            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-swing                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-Unknown Project          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+ccnubox_rn               6 hrs 36 mins       █████████████████████░░░░   83.34 % 
+typescript-go            39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+authlib-injector         38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+id-front                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+cubism-rs                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      6 hrs 43 mins       █████████████████████░░░░   83.91 % 
-Windows                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Mac                      5 hrs 53 mins       ███████████████████░░░░░░   74.29 % 
+Windows                  2 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +149,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/12/2025 00:56:03 UTC
+ Last Updated on 08/12/2025 00:49:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
