@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C018%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -89,15 +89,15 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1627 commits        █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+🌞 Morning                1628 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
 🌆 Daytime                3083 commits        ██████████░░░░░░░░░░░░░░░   39.08 % 
-🌃 Evening                2643 commits        ████████░░░░░░░░░░░░░░░░░   33.51 % 
+🌃 Evening                2643 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
 🌙 Night                  535 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1503 commits        █████░░░░░░░░░░░░░░░░░░░░   19.05 % 
+Monday                   1504 commits        █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
 Tuesday                  1846 commits        ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
 Wednesday                822 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
 Thursday                 640 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
@@ -113,27 +113,27 @@ Sunday                   955 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 24 mins      ██████████████████████░░░   87.10 % 
-TypeScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Other                    14 hrs 34 mins      ██████████████████████░░░   87.70 % 
+C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 🔥 Editors: 
-Edge                     17 hrs 54 mins      ██████████████████████░░░   89.63 % 
-VS Code                  1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Cursor                   54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+Edge                     14 hrs 55 mins      ██████████████████████░░░   89.82 % 
+VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Cursor                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-LollipopSkinRender       4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-ccnubox-website          3 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-LollipopSkinRender-main  3 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
-muxiK-StackFrontend2.0   3 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
-vllm                     3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+LollipopSkinRender       6 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
+LollipopSkinRender-main  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+muxiK-StackFrontend2.0   3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+ccnubox-website          2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Karunari-luoling.github.i54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
 
 💻 Operating System: 
-Mac                      17 hrs 7 mins       █████████████████████░░░░   85.71 % 
-Windows                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Mac                      13 hrs 45 mins      █████████████████████░░░░   82.82 % 
+Windows                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/12/2025 00:55:33 UTC
+ Last Updated on 16/12/2025 00:52:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
