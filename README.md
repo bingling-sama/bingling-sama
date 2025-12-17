@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C020%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -113,27 +113,27 @@ Sunday                   955 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 34 mins      ██████████████████████░░░   87.70 % 
-C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
-TypeScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JSON                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Other                    14 hrs 26 mins      ██████████████████████░░░   87.60 % 
+C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
 
 🔥 Editors: 
-Edge                     14 hrs 55 mins      ██████████████████████░░░   89.82 % 
-VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-Cursor                   31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+Edge                     15 hrs 19 mins      ███████████████████████░░   92.88 % 
+VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-LollipopSkinRender       6 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.80 % 
-LollipopSkinRender-main  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-muxiK-StackFrontend2.0   3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-ccnubox-website          2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Karunari-luoling.github.i54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+LollipopSkinRender       7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
+LollipopSkinRender-main  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
+muxiK-StackFrontend2.0   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+eas-build                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+wlasl-baseline-model     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Mac                      13 hrs 45 mins      █████████████████████░░░░   82.82 % 
-Windows                  2 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
+Mac                      14 hrs 8 mins       █████████████████████░░░░   85.78 % 
+Windows                  2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2025 00:52:30 UTC
+ Last Updated on 17/12/2025 00:49:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
