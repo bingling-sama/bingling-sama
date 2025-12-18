@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C022%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C026%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -113,27 +113,27 @@ Sunday                   955 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 26 mins      ██████████████████████░░░   87.60 % 
-C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    14 hrs 10 mins      ██████████████████████░░░   87.40 % 
+C++                      52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+TypeScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+JSON                     27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+CMake                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🔥 Editors: 
-Edge                     15 hrs 19 mins      ███████████████████████░░   92.88 % 
-VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Edge                     15 hrs 3 mins       ███████████████████████░░   92.76 % 
+VS Code                  1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 Cursor                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-LollipopSkinRender       7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   44.80 % 
-LollipopSkinRender-main  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.49 % 
-muxiK-StackFrontend2.0   2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-eas-build                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
-wlasl-baseline-model     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+LollipopSkinRender       7 hrs 23 mins       ███████████░░░░░░░░░░░░░░   45.53 % 
+LollipopSkinRender-main  3 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+muxiK-StackFrontend2.0   2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+wlasl-baseline-model     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+eas-build                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
 
 💻 Operating System: 
-Mac                      14 hrs 8 mins       █████████████████████░░░░   85.78 % 
-Windows                  2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Mac                      14 hrs 5 mins       ██████████████████████░░░   86.85 % 
+Windows                  2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2025 00:49:03 UTC
+ Last Updated on 18/12/2025 00:47:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
