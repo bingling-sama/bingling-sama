@@ -68,11 +68,11 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C027%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.8%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1629 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
-🌆 Daytime                3083 commits        ██████████░░░░░░░░░░░░░░░   39.07 % 
-🌃 Evening                2643 commits        ████████░░░░░░░░░░░░░░░░░   33.49 % 
-🌙 Night                  536 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+🌞 Morning                1751 commits        █████░░░░░░░░░░░░░░░░░░░░   20.93 % 
+🌆 Daytime                3283 commits        ██████████░░░░░░░░░░░░░░░   39.25 % 
+🌃 Evening                2771 commits        ████████░░░░░░░░░░░░░░░░░   33.13 % 
+🌙 Night                  560 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1505 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
-Tuesday                  1847 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Wednesday                822 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-Thursday                 640 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Friday                   1356 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Saturday                 766 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
-Sunday                   955 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Monday                   1597 commits        █████░░░░░░░░░░░░░░░░░░░░   19.09 % 
+Tuesday                  1965 commits        ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+Wednesday                874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Thursday                 682 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
+Friday                   1452 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
+Saturday                 792 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Sunday                   1003 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
 ```
 
 
@@ -113,25 +113,25 @@ Sunday                   955 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 8 mins        ███████████████████████░░   90.90 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Other                    8 hrs 33 mins       ███████████████████████░░   90.33 % 
+TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Edge                     9 hrs 47 mins       ████████████████████████░   97.24 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+Edge                     9 hrs 11 mins       ████████████████████████░   97.07 % 
+Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🐱‍💻 Projects: 
-LollipopSkinRender       5 hrs 30 mins       ██████████████░░░░░░░░░░░   54.72 % 
-wlasl-baseline-model     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-ccnubox_rn               1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-eas-build                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.04 % 
-Realtime-Sign-Language-De21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+LollipopSkinRender       4 hrs 51 mins       █████████████░░░░░░░░░░░░   51.34 % 
+wlasl-baseline-model     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+ccnubox_rn               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+eas-build                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Realtime-Sign-Language-De21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Mac                      10 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/12/2025 00:49:09 UTC
+ Last Updated on 21/12/2025 00:56:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
