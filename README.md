@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -113,25 +113,25 @@ Sunday                   1003 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 33 mins       ███████████████████████░░   90.33 % 
-TypeScript               40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other                    9 hrs 9 mins        ███████████████████████░░   90.30 % 
+TypeScript               45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+JSON                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Edge                     9 hrs 11 mins       ████████████████████████░   97.07 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
+Edge                     9 hrs 52 mins       ████████████████████████░   97.24 % 
+Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
 
 🐱‍💻 Projects: 
-LollipopSkinRender       4 hrs 51 mins       █████████████░░░░░░░░░░░░   51.34 % 
-wlasl-baseline-model     1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-ccnubox_rn               1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-eas-build                1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Realtime-Sign-Language-De21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+LollipopSkinRender       2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.52 % 
+FE-test                  1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
+wlasl-baseline-model     1 hr 46 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.51 % 
+ccnubox_rn               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+eas-build                1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
 
 💻 Operating System: 
-Mac                      9 hrs 28 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/12/2025 00:56:54 UTC
+ Last Updated on 22/12/2025 00:55:56 UTC
 <!--END_SECTION:waka-->
 
 </details>
