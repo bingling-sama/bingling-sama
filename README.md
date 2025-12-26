@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C035%20hrs%2036%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C037%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,24 +113,24 @@ Sunday                   1029 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 20 mins       ████████████████████░░░░░   78.39 % 
-Markdown                 1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-TypeScript               34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
-Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+Other                    8 hrs 19 mins       ███████████████████░░░░░░   77.22 % 
+Markdown                 1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+TypeScript               20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 
 🔥 Editors: 
-Edge                     10 hrs 22 mins      ████████████████████████░   97.48 % 
-Cursor                   16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Edge                     10 hrs 44 mins      █████████████████████████   99.65 % 
+Cursor                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-drasl                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-ygg-connect              1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-FE-test                  1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-ccnubox_rn               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-authlib-injector         1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+ygg-connect              3 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.59 % 
+drasl                    1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
+FE-test                  1 hr 47 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+authlib-injector         1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+ccnubox_rn               52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
 
 💻 Operating System: 
-Mac                      10 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/12/2025 00:50:56 UTC
+ Last Updated on 26/12/2025 00:52:15 UTC
 <!--END_SECTION:waka-->
 
 </details>
