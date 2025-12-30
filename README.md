@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C047%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C049%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -113,26 +113,26 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 53 mins      █████████████████░░░░░░░░   68.98 % 
-Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.36 % 
-YAML                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Go                       27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-TypeScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    12 hrs 33 mins      █████████████████░░░░░░░░   69.64 % 
+Markdown                 3 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Rust                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Go                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Edge                     18 hrs 41 mins      █████████████████████████   100.00 % 
+Edge                     18 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygg-connect              9 hrs 15 mins       ████████████░░░░░░░░░░░░░   49.58 % 
-drasl                    1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
-authlib-injector         1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
-library-system           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-eidolon                  55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+ygg-connect              10 hrs 19 mins      ██████████████░░░░░░░░░░░   57.22 % 
+library-system           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+drasl                    1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+authlib-injector         58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.42 % 
+home                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
 
 💻 Operating System: 
-Mac                      14 hrs 59 mins      ████████████████████░░░░░   80.25 % 
-Linux                    3 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Mac                      13 hrs 41 mins      ███████████████████░░░░░░   75.88 % 
+Linux                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2025 00:58:29 UTC
+ Last Updated on 30/12/2025 00:51:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
