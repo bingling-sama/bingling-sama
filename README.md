@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C050%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C052%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -78,7 +78,7 @@
 
 > 📦 618.5 kB Used in GitHub's Storage 
  > 
-> 🏆 778 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,24 +113,24 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 46 mins      ██████████████████░░░░░░░   70.97 % 
-Markdown                 2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Rust                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Other                    11 hrs 32 mins      ██████████████████░░░░░░░   73.46 % 
+YAML                     1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
+Markdown                 1 hr 58 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Rust                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
 
 🔥 Editors: 
-Edge                     16 hrs 35 mins      █████████████████████████   100.00 % 
+Edge                     15 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-ygg-connect              11 hrs 10 mins      █████████████████░░░░░░░░   67.35 % 
-library-system           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
-home                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
-eidolon                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
-id                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
+ygg-connect              10 hrs 36 mins      █████████████████░░░░░░░░   67.51 % 
+library-system           1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+home                     42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+eidolon                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+id                       35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 
 💻 Operating System: 
-Mac                      12 hrs 14 mins      ██████████████████░░░░░░░   73.78 % 
-Linux                    4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+Mac                      11 hrs 21 mins      ██████████████████░░░░░░░   72.30 % 
+Linux                    4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   27.59 % 
 Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
@@ -147,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 00:53:21 UTC
+ Last Updated on 01/01/2026 00:59:33 UTC
 <!--END_SECTION:waka-->
 
 </details>
