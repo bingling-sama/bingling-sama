@@ -68,9 +68,11 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2037%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.99%20million%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.99%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -84,6 +86,46 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1885 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
+🌆 Daytime                3495 commits        ██████████░░░░░░░░░░░░░░░   39.40 % 
+🌃 Evening                2900 commits        ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌙 Night                  591 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1692 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Tuesday                  2089 commits        ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+Wednesday                930 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Thursday                 726 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
+Friday                   1551 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Saturday                 828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Sunday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    4 hrs 56 mins       █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Edge                     4 hrs 56 mins       █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+ygg-connect              4 hrs 56 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      4 hrs 37 mins       ███████████████████████░░   93.59 % 
+Linux                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,7 +139,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 00:59:33 UTC
+ Last Updated on 06/01/2026 00:53:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
