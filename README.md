@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C056%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -78,7 +78,7 @@
 
 > 📦 618.5 kB Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,19 +89,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1885 commits        █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+🌞 Morning                1886 commits        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
 🌆 Daytime                3495 commits        ██████████░░░░░░░░░░░░░░░   39.38 % 
-🌃 Evening                2900 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
+🌃 Evening                2901 commits        ████████░░░░░░░░░░░░░░░░░   32.68 % 
 🌙 Night                  594 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1692 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+Monday                   1693 commits        █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
 Tuesday                  2092 commits        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Wednesday                930 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+Wednesday                931 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Thursday                 726 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-Friday                   1551 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Friday                   1551 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 Saturday                 828 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 Sunday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
 ```
@@ -113,22 +113,25 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    6 hrs 48 mins       ████████████████████████░   97.12 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    8 hrs 22 mins       ███████████████████████░░   92.12 % 
+YAML                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Edge                     7 hrs               █████████████████████████   100.00 % 
+Edge                     9 hrs 2 mins        █████████████████████████   99.37 % 
+Cursor                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 
 🐱‍💻 Projects: 
-ygg-connect              4 hrs 3 mins        ██████████████░░░░░░░░░░░   57.85 % 
-thefuck                  2 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-zoxide                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-witr                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-eidolon                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+thefuck                  4 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.86 % 
+ygg-connect              3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.67 % 
+zoxide                   44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+LollipopSkinRender       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
+eidolon                  13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
 
 💻 Operating System: 
-Mac                      6 hrs 39 mins       ████████████████████████░   94.79 % 
-Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Mac                      8 hrs 19 mins       ███████████████████████░░   91.63 % 
+Windows                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +147,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2026 00:54:25 UTC
+ Last Updated on 08/01/2026 00:53:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
