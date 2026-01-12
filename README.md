@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C066%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C068%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -113,26 +113,26 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 58 mins      █████████████████████░░░░   83.85 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.27 % 
-YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+Other                    10 hrs 36 mins      █████████████████████░░░░   83.21 % 
+JSON                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 % 
+YAML                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 
 🔥 Editors: 
-Edge                     12 hrs 25 mins      ████████████████████████░   94.82 % 
-Cursor                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+Edge                     12 hrs 4 mins       ████████████████████████░   94.68 % 
+Cursor                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               5 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   40.58 % 
-thefuck                  4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.84 % 
-ygg-connect              2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
-zoxide                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-LollipopSkinRender       22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+ccnubox_rn               5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.35 % 
+thefuck                  4 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+eidolon                  48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+ygg-connect              44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+zoxide                   44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 
 💻 Operating System: 
-Mac                      12 hrs 8 mins       ███████████████████████░░   92.77 % 
-Windows                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-Linux                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Mac                      11 hrs 42 mins      ███████████████████████░░   91.76 % 
+Windows                  41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Linux                    21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2026 01:00:40 UTC
+ Last Updated on 12/01/2026 00:58:25 UTC
 <!--END_SECTION:waka-->
 
 </details>
