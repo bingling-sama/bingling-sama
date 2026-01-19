@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C078%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C080%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1885 commits        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
-🌆 Daytime                3753 commits        ██████████░░░░░░░░░░░░░░░   40.35 % 
-🌃 Evening                3034 commits        ████████░░░░░░░░░░░░░░░░░   32.62 % 
-🌙 Night                  629 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+🌞 Morning                1885 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
+🌆 Daytime                3747 commits        ██████████░░░░░░░░░░░░░░░   40.34 % 
+🌃 Evening                3031 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
+🌙 Night                  626 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1692 commits        █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-Tuesday                  2238 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-Wednesday                932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
-Thursday                 727 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
-Friday                   1827 commits        █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Saturday                 830 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-Sunday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+Monday                   1692 commits        █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  2235 commits        ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
+Wednesday                932 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.03 % 
+Thursday                 727 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
+Friday                   1818 commits        █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+Saturday                 830 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Sunday                   1055 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -113,22 +113,20 @@ Sunday                   1055 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 19 mins      ████████████████████████░   95.75 % 
-JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
+Other                    10 hrs 47 mins      ████████████████████████░   95.37 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-Edge                     11 hrs 50 mins      █████████████████████████   100.00 % 
+Edge                     11 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-git-fame                 6 hrs 29 mins       ██████████████░░░░░░░░░░░   54.86 % 
-eidolon                  4 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
-ccnubox_rn               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-clash-party              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
-minecraft-matrix-bridge  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+git-fame                 6 hrs 46 mins       ███████████████░░░░░░░░░░   59.85 % 
+eidolon                  4 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.74 % 
+chatgpt-plus-hezu        15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+minecraft-matrix-bridge  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Mac                      11 hrs 41 mins      █████████████████████████   98.77 % 
-Linux                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Mac                      11 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +142,7 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/01/2026 01:00:27 UTC
+ Last Updated on 19/01/2026 00:59:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
