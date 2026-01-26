@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C103%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C104%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -113,28 +113,28 @@ Sunday                   861 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 12 mins      ██████████████░░░░░░░░░░░   54.05 % 
-TypeScript               9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.13 % 
-JSON                     1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Other                    13 hrs 7 mins       █████████████░░░░░░░░░░░░   53.99 % 
+TypeScript               9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   38.35 % 
+JSON                     1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 Swift                    20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-Kotlin                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Kotlin                   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Edge                     16 hrs 59 mins      █████████████████░░░░░░░░   69.50 % 
-Cursor                   7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Edge                     16 hrs 51 mins      █████████████████░░░░░░░░   69.33 % 
+Cursor                   7 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   29.62 % 
 VS Code                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Android Studio           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               17 hrs 34 mins      ██████████████████░░░░░░░   71.93 % 
-open-webui               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-SignHelper               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
-2026-EdgeOfRule-Bevy     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-chatgpt-plus-hezu        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+ccnubox_rn               17 hrs 34 mins      ██████████████████░░░░░░░   72.33 % 
+open-webui               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+SignHelper               1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
+2026-EdgeOfRule-Bevy     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
+2026-Psychopomp-BackEnd  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 💻 Operating System: 
-Mac                      23 hrs 43 mins      ████████████████████████░   97.03 % 
-Windows                  43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+Mac                      23 hrs 30 mins      ████████████████████████░   96.74 % 
+Windows                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/01/2026 01:01:42 UTC
+ Last Updated on 26/01/2026 01:00:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
