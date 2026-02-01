@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C112%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2033%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,23 +113,21 @@ Sunday                   885 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 46 mins      ████████████████████████░   94.41 % 
-TypeScript               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+Other                    13 hrs 59 mins      ████████████████████████░   96.32 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 🔥 Editors: 
-Edge                     14 hrs 18 mins      █████████████████████████   98.15 % 
-Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Edge                     14 hrs 14 mins      █████████████████████████   98.14 % 
+Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               7 hrs 4 mins        ████████████░░░░░░░░░░░░░   48.53 % 
-id                       6 hrs               ██████████░░░░░░░░░░░░░░░   41.24 % 
-vib-OS                   1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-open-webui               21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-claude-code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+ccnubox_rn               7 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.51 % 
+id                       6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
+vib-OS                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 💻 Operating System: 
-Windows                  11 hrs 16 mins      ███████████████████░░░░░░   77.30 % 
-Mac                      3 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
+Windows                  11 hrs 48 mins      ████████████████████░░░░░   81.42 % 
+Mac                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +143,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2026 01:01:30 UTC
+ Last Updated on 01/02/2026 01:13:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
