@@ -68,8 +68,6 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C118%20hrs%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.64%20million%20lines%20of%20code-blue?style=flat)
@@ -113,21 +111,21 @@ Sunday                   885 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    13 hrs 59 mins      ████████████████████████░   96.32 % 
-TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Other                    13 hrs 49 mins      ████████████████████████░   96.28 % 
+TypeScript               32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Edge                     14 hrs 14 mins      █████████████████████████   98.14 % 
-Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Edge                     14 hrs 4 mins       █████████████████████████   98.12 % 
+Cursor                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               7 hrs 2 mins        ████████████░░░░░░░░░░░░░   48.51 % 
-id                       6 hrs 33 mins       ███████████░░░░░░░░░░░░░░   45.19 % 
-vib-OS                   54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+ccnubox_rn               7 hrs 2 mins        ████████████░░░░░░░░░░░░░   49.06 % 
+id                       6 hrs 47 mins       ████████████░░░░░░░░░░░░░   47.36 % 
+vib-OS                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 💻 Operating System: 
-Windows                  11 hrs 48 mins      ████████████████████░░░░░   81.42 % 
-Mac                      2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+Windows                  11 hrs 59 mins      █████████████████████░░░░   83.53 % 
+Mac                      2 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +141,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 01:13:45 UTC
+ Last Updated on 02/02/2026 01:07:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
