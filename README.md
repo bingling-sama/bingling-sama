@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -90,9 +90,9 @@
 
 ```text
 🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                3404 commits        ██████████░░░░░░░░░░░░░░░   40.28 % 
-🌃 Evening                2766 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
-🌙 Night                  553 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+🌆 Daytime                3404 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
+🌃 Evening                2766 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌙 Night                  552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -101,7 +101,7 @@ Monday                   1502 commits        ████░░░░░░░�
 Tuesday                  1995 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
 Wednesday                863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
 Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   1691 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Friday                   1690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
 Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
 ```
@@ -113,25 +113,24 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 4 mins        ████████████████████████░   96.73 % 
-Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    3 hrs 44 mins       ███████████████████████░░   92.54 % 
+Kotlin                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     9 hrs 18 mins       █████████████████████████   99.29 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Edge                     3 hrs 58 mins       █████████████████████████   98.36 % 
+Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 
 🐱‍💻 Projects: 
-id                       8 hrs 53 mins       ████████████████████████░   94.95 % 
-ccnubox_rn               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-2026-Psychopomp-cocos    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
-2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+id                       2 hrs 53 mins       ██████████████████░░░░░░░   71.45 % 
+2026-Psychopomp-cocos    51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
+ccnubox_rn               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  8 hrs 59 mins       ████████████████████████░   95.89 % 
-Mac                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Windows                  2 hrs 58 mins       ██████████████████░░░░░░░   73.78 % 
+Mac                      1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +146,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/02/2026 01:04:00 UTC
+ Last Updated on 07/02/2026 01:03:20 UTC
 <!--END_SECTION:waka-->
 
 </details>
