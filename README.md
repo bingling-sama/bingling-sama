@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C121%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C122%20hrs%2035%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,24 +113,24 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 44 mins       ███████████████████████░░   92.54 % 
-Kotlin                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Other                    4 hrs 37 mins       ███████████████████████░░   93.87 % 
+Kotlin                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     3 hrs 58 mins       █████████████████████████   98.36 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Edge                     4 hrs 51 mins       █████████████████████████   98.65 % 
+Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🐱‍💻 Projects: 
-id                       2 hrs 53 mins       ██████████████████░░░░░░░   71.45 % 
-2026-Psychopomp-cocos    51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.26 % 
-ccnubox_rn               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+id                       2 hrs 20 mins       ████████████░░░░░░░░░░░░░   47.56 % 
+2026-Psychopomp-cocos    2 hrs 16 mins       ████████████░░░░░░░░░░░░░   46.46 % 
+ccnubox_rn               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  2 hrs 58 mins       ██████████████████░░░░░░░   73.78 % 
-Mac                      1 hr 3 mins         ███████░░░░░░░░░░░░░░░░░░   26.22 % 
+Mac                      2 hrs 29 mins       █████████████░░░░░░░░░░░░   50.54 % 
+Windows                  2 hrs 25 mins       ████████████░░░░░░░░░░░░░   49.46 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2026 01:03:20 UTC
+ Last Updated on 08/02/2026 01:23:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
