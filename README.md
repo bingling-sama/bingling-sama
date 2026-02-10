@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-🌆 Daytime                3404 commits        ██████████░░░░░░░░░░░░░░░   40.29 % 
-🌃 Evening                2766 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
-🌙 Night                  552 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌆 Daytime                3398 commits        ██████████░░░░░░░░░░░░░░░   40.27 % 
+🌃 Evening                2763 commits        ████████░░░░░░░░░░░░░░░░░   32.74 % 
+🌙 Night                  551 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.78 % 
-Tuesday                  1995 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Wednesday                863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Friday                   1690 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
+Tuesday                  1993 commits        ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Wednesday                863 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
+Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Friday                   1682 commits        █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 
@@ -113,24 +113,24 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 23 mins       ███████████████████████░░   93.56 % 
-Kotlin                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Other                    2 hrs 43 mins       ███████████████████████░░   90.02 % 
+Kotlin                   18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     4 hrs 37 mins       █████████████████████████   98.58 % 
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+Edge                     2 hrs 57 mins       ████████████████████████░   97.81 % 
+Android Studio           3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🐱‍💻 Projects: 
-2026-Psychopomp-cocos    2 hrs 16 mins       ████████████░░░░░░░░░░░░░   48.81 % 
-id                       2 hrs 6 mins        ███████████░░░░░░░░░░░░░░   44.90 % 
-ccnubox_rn               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+2026-Psychopomp-cocos    2 hrs 28 mins       █████████████████████░░░░   82.21 % 
+ccnubox_rn               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+id                       14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+2026-TimeTeleport-Cocos  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+2025-Ankipage-FrontEnd   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Mac                      2 hrs 29 mins       █████████████░░░░░░░░░░░░   53.09 % 
-Windows                  2 hrs 11 mins       ████████████░░░░░░░░░░░░░   46.91 % 
+Mac                      2 hrs 29 mins       █████████████████████░░░░   82.35 % 
+Windows                  31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -146,7 +146,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/02/2026 01:09:07 UTC
+ Last Updated on 10/02/2026 01:18:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
