@@ -68,11 +68,11 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C129%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.86%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.85%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-🌆 Daytime                3412 commits        ██████████░░░░░░░░░░░░░░░   40.26 % 
-🌃 Evening                2776 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
-🌙 Night                  559 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
+🌆 Daytime                3406 commits        ██████████░░░░░░░░░░░░░░░   40.25 % 
+🌃 Evening                2773 commits        ████████░░░░░░░░░░░░░░░░░   32.77 % 
+🌙 Night                  556 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.72 % 
-Tuesday                  2008 commits        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Wednesday                864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
-Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-Friday                   1701 commits        █████░░░░░░░░░░░░░░░░░░░░   20.07 % 
-Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
+Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
+Tuesday                  2004 commits        ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Wednesday                864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
+Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Friday                   1693 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
 ```
 
 
@@ -113,25 +113,25 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 23 mins       ██████████████████████░░░   89.97 % 
-Kotlin                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Other                    7 hrs 10 mins       ██████████████████████░░░   89.69 % 
+Kotlin                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Edge                     8 hrs 2 mins        ████████████████████████░   97.92 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Edge                     7 hrs 49 mins       ████████████████████████░   97.86 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               5 hrs 46 mins       ██████████████████░░░░░░░   70.22 % 
-2026-Psychopomp-cocos    2 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-SignHelper               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ccnubox_rn               6 hrs 13 mins       ███████████████████░░░░░░   77.88 % 
+2026-Psychopomp-cocos    1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
+SignHelper               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Windows-Auto-Night-Mode  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 bilive                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 58 mins       ███████████████░░░░░░░░░░   60.47 % 
-Windows                  3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.53 % 
+Mac                      4 hrs 44 mins       ███████████████░░░░░░░░░░   59.37 % 
+Windows                  3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/02/2026 01:11:48 UTC
+ Last Updated on 14/02/2026 01:06:17 UTC
 <!--END_SECTION:waka-->
 
 </details>
