@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C130%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,25 +113,25 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    7 hrs 10 mins       ██████████████████████░░░   89.69 % 
-Kotlin                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Other                    5 hrs 44 mins       ██████████████████████░░░   87.46 % 
+Kotlin                   38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+CSV                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-Edge                     7 hrs 49 mins       ████████████████████████░   97.86 % 
-Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Edge                     6 hrs 23 mins       ████████████████████████░   97.40 % 
+Cursor                   10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               6 hrs 13 mins       ███████████████████░░░░░░   77.88 % 
-2026-Psychopomp-cocos    1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-SignHelper               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Windows-Auto-Night-Mode  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+ccnubox_rn               6 hrs 13 mins       ████████████████████████░   94.78 % 
+2026-Psychopomp-cocos    19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+SignHelper               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Windows-Auto-Night-Mode  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 bilive                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      4 hrs 44 mins       ███████████████░░░░░░░░░░   59.37 % 
-Windows                  3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   40.63 % 
+Mac                      3 hrs 19 mins       █████████████░░░░░░░░░░░░   50.55 % 
+Windows                  3 hrs 14 mins       ████████████░░░░░░░░░░░░░   49.45 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -147,7 +147,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2026 01:06:17 UTC
+ Last Updated on 15/02/2026 01:10:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
