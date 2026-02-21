@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-🌆 Daytime                3392 commits        ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌃 Evening                2767 commits        ████████░░░░░░░░░░░░░░░░░   32.73 % 
-🌙 Night                  569 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+🌞 Morning                1727 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌆 Daytime                3388 commits        ██████████░░░░░░░░░░░░░░░   40.17 % 
+🌃 Evening                2765 commits        ████████░░░░░░░░░░░░░░░░░   32.78 % 
+🌙 Night                  555 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.76 % 
-Tuesday                  2000 commits        ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
-Wednesday                864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Friday                   1690 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Monday                   1502 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Tuesday                  1986 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Wednesday                864 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Thursday                 729 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Friday                   1684 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Saturday                 737 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Sunday                   933 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
 ```
 
 
@@ -113,21 +113,22 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 10 mins        ████████████████████████░   95.80 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Other                    2 hrs 21 mins       ███████████████████████░░   91.24 % 
+JSON                     11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 
 🔥 Editors: 
-Edge                     1 hr 11 mins        ████████████████████████░   97.37 % 
-Cursor                   1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Edge                     2 hrs 32 mins       █████████████████████████   98.75 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               1 hr 13 mins        █████████████████████████   100.00 % 
+id                       1 hr 48 mins        ██████████████████░░░░░░░   70.22 % 
+ccnubox_rn               46 mins             ███████░░░░░░░░░░░░░░░░░░   29.78 % 
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   99.75 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Mac                      1 hr 27 mins        ██████████████░░░░░░░░░░░   56.84 % 
+Windows                  1 hr 6 mins         ███████████░░░░░░░░░░░░░░   43.16 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -143,7 +144,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 01:04:49 UTC
+ Last Updated on 21/02/2026 01:03:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
