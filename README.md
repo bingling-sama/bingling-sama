@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C133%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,22 +113,22 @@ Sunday                   933 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 2 mins        ███████████████████████░░   93.09 % 
-JSON                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Other                    3 hrs 56 mins       ███████████████████████░░   90.93 % 
+JSON                     21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 % 
+CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 
 🔥 Editors: 
-Edge                     3 hrs 14 mins       █████████████████████████   99.02 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Edge                     4 hrs 17 mins       █████████████████████████   99.25 % 
+Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🐱‍💻 Projects: 
-id                       2 hrs 30 mins       ███████████████████░░░░░░   76.56 % 
-ccnubox_rn               46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+id                       3 hrs 33 mins       █████████████████████░░░░   82.25 % 
+ccnubox_rn               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
 
 💻 Operating System: 
-Mac                      2 hrs 4 mins        ████████████████░░░░░░░░░   63.36 % 
-Windows                  1 hr 12 mins        █████████░░░░░░░░░░░░░░░░   36.64 % 
+Mac                      2 hrs 47 mins       ████████████████░░░░░░░░░   64.48 % 
+Windows                  1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   35.52 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +144,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/02/2026 01:07:59 UTC
+ Last Updated on 23/02/2026 01:07:43 UTC
 <!--END_SECTION:waka-->
 
 </details>
