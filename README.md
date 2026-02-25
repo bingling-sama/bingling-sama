@@ -68,11 +68,11 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C134%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C135%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.94%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1788 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
-🌆 Daytime                3498 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
-🌃 Evening                2846 commits        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-🌙 Night                  571 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+🌞 Morning                1788 commits        █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+🌆 Daytime                3520 commits        ██████████░░░░░░░░░░░░░░░   40.19 % 
+🌃 Evening                2869 commits        ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌙 Night                  581 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1552 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Tuesday                  2055 commits        ██████░░░░░░░░░░░░░░░░░░░   23.61 % 
-Wednesday                891 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-Thursday                 755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
-Friday                   1741 commits        █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Saturday                 752 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
-Sunday                   957 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
+Monday                   1556 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.77 % 
+Tuesday                  2070 commits        ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Wednesday                892 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+Thursday                 760 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Friday                   1769 commits        █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
+Saturday                 754 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Sunday                   957 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
 ```
 
 
@@ -113,22 +113,19 @@ Sunday                   957 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    3 hrs 57 mins       ██████████████████████░░░   89.35 % 
-JSON                     26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-CSV                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+Other                    4 hrs 29 mins       ██████████████████████░░░   88.35 % 
+JSON                     35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 
 🔥 Editors: 
-Edge                     4 hrs 23 mins       █████████████████████████   99.27 % 
-Cursor                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Edge                     5 hrs 5 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-id                       3 hrs 39 mins       █████████████████████░░░░   82.66 % 
-ccnubox_rn               46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+id                       5 hrs 5 mins        █████████████████████████   99.99 % 
+ccnubox_rn               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Mac                      2 hrs 53 mins       ████████████████░░░░░░░░░   65.26 % 
-Windows                  1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.74 % 
+Windows                  2 hrs 35 mins       █████████████░░░░░░░░░░░░   50.82 % 
+Mac                      2 hrs 30 mins       ████████████░░░░░░░░░░░░░   49.18 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +141,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/02/2026 01:06:10 UTC
+ Last Updated on 25/02/2026 01:11:12 UTC
 <!--END_SECTION:waka-->
 
 </details>
