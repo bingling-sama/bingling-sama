@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C136%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2011%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,18 +113,18 @@ Sunday                   957 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    2 hrs 51 mins       █████████████████████░░░░   85.73 % 
-JSON                     28 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
+Other                    1 hr 58 mins        ██████████████████████░░░   86.43 % 
+JSON                     18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 
 🔥 Editors: 
-Edge                     3 hrs 19 mins       █████████████████████████   100.00 % 
+Edge                     2 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-id                       3 hrs 19 mins       █████████████████████████   100.00 % 
+id                       2 hrs 16 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        ███████████████░░░░░░░░░░   58.36 % 
-Mac                      1 hr 23 mins        ██████████░░░░░░░░░░░░░░░   41.64 % 
+Windows                  1 hr 36 mins        ██████████████████░░░░░░░   70.52 % 
+Mac                      40 mins             ███████░░░░░░░░░░░░░░░░░░   29.48 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -140,7 +140,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 01:12:51 UTC
+ Last Updated on 02/03/2026 01:06:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
