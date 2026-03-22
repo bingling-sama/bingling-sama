@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C221%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,16 +89,16 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1988 commits        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-🌆 Daytime                3816 commits        ██████████░░░░░░░░░░░░░░░   39.94 % 
+🌞 Morning                1988 commits        █████░░░░░░░░░░░░░░░░░░░░   20.80 % 
+🌆 Daytime                3816 commits        ██████████░░░░░░░░░░░░░░░   39.93 % 
 🌃 Evening                3118 commits        ████████░░░░░░░░░░░░░░░░░   32.63 % 
-🌙 Night                  633 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+🌙 Night                  634 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1685 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
-Tuesday                  2287 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Tuesday                  2288 commits        ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
 Wednesday                975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 Thursday                 845 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.84 % 
 Friday                   1935 commits        █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
@@ -113,26 +113,26 @@ Sunday                   1033 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 16 mins      ███████████████████████░░   90.31 % 
-TypeScript               2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Unity3D Asset            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Other                    35 hrs 16 mins      ███████████████████████░░   90.54 % 
+TypeScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Unity3D Asset            28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Git Config               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Edge                     36 hrs 17 mins      ████████████████████████░   95.61 % 
-Cursor                   1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
+Edge                     37 hrs 17 mins      ████████████████████████░   95.72 % 
+Cursor                   1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
 
 🐱‍💻 Projects: 
-DockerHub                12 hrs 31 mins      ████████░░░░░░░░░░░░░░░░░   33.00 % 
-ccnubox_rn               11 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   29.09 % 
-uptime-kuma              3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-ocsjs                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-ccnubox-be               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+DockerHub                13 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   35.45 % 
+ccnubox_rn               11 hrs 2 mins       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+uptime-kuma              3 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+ocsjs                    2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+ccnubox-be               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 💻 Operating System: 
-Mac                      32 hrs 17 mins      █████████████████████░░░░   85.08 % 
-Windows                  5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Mac                      33 hrs 20 mins      █████████████████████░░░░   85.57 % 
+Windows                  5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/03/2026 01:03:31 UTC
+ Last Updated on 22/03/2026 01:10:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
