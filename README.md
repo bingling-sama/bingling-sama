@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%208%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-🌆 Daytime                3879 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
-🌃 Evening                3139 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
-🌙 Night                  677 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+🌞 Morning                2054 commits        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+🌆 Daytime                3881 commits        ██████████░░░░░░░░░░░░░░░   39.79 % 
+🌃 Evening                3140 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
+🌙 Night                  678 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1690 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Tuesday                  2355 commits        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-Wednesday                1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+Monday                   1690 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.33 % 
+Tuesday                  2356 commits        ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Wednesday                1002 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
 Thursday                 854 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Friday                   2000 commits        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Friday                   2003 commits        █████░░░░░░░░░░░░░░░░░░░░   20.54 % 
 Saturday                 811 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
-Sunday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Sunday                   1037 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
 ```
 
 
@@ -113,26 +113,26 @@ Sunday                   1037 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 42 mins      ██████████████████░░░░░░░   71.67 % 
-Rust                     4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-TypeScript               31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    17 hrs 31 mins      ██████████████████░░░░░░░   70.89 % 
+Rust                     4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
 TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Edge                     23 hrs 13 mins      ████████████████████████░   94.03 % 
-Cursor                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Edge                     23 hrs 15 mins      ████████████████████████░   94.04 % 
+Cursor                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-heimdall-next            6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-eidolon                  6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-id                       6 hrs 1 min         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
-2026-TimeTeleport-Cocos  1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-DockerHub                1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+id                       7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
+heimdall-next            6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+eidolon                  6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+2026-TimeTeleport-Cocos  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
+kratos-layout            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 💻 Operating System: 
-Mac                      23 hrs 2 mins       ███████████████████████░░   93.26 % 
-Windows                  1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Mac                      22 hrs 11 mins      ██████████████████████░░░   89.75 % 
+Windows                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/03/2026 01:09:13 UTC
+ Last Updated on 29/03/2026 01:19:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
