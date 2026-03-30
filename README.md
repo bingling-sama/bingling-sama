@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C252%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C253%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,26 +113,26 @@ Sunday                   1037 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 31 mins      ██████████████████░░░░░░░   70.89 % 
-Rust                     4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
-Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-TypeScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    15 hrs 44 mins      █████████████████░░░░░░░░   68.91 % 
+Rust                     4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Markdown                 1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+TypeScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Edge                     23 hrs 15 mins      ████████████████████████░   94.04 % 
-Cursor                   1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Edge                     21 hrs 22 mins      ███████████████████████░░   93.55 % 
+Cursor                   1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
 
 🐱‍💻 Projects: 
-id                       7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   30.20 % 
-heimdall-next            6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
-eidolon                  6 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-2026-TimeTeleport-Cocos  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-kratos-layout            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+id                       7 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   32.68 % 
+heimdall-next            6 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.04 % 
+eidolon                  6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   26.96 % 
+kratos-layout            1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
+otp                      42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 💻 Operating System: 
-Mac                      22 hrs 11 mins      ██████████████████████░░░   89.75 % 
-Windows                  2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Mac                      20 hrs 20 mins      ██████████████████████░░░   89.01 % 
+Windows                  2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -148,7 +148,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2026 01:19:07 UTC
+ Last Updated on 30/03/2026 01:20:14 UTC
 <!--END_SECTION:waka-->
 
 </details>
