@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C288%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C292%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,22 +113,26 @@ Sunday                   1038 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    21 hrs 2 mins       ███████████████████████░░   93.97 % 
-TypeScript               1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Other                    24 hrs 14 mins      ████████████████████████░   94.54 % 
+TypeScript               1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.37 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Edge                     22 hrs 23 mins      █████████████████████████   100.00 % 
+Edge                     25 hrs 29 mins      █████████████████████████   99.39 % 
+Cursor                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-ccnubox-be               7 hrs 9 mins        ████████░░░░░░░░░░░░░░░░░   31.95 % 
-computer-design-project  5 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-awesome-design-md        3 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-id                       2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-id-front                 2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+ccnubox-be               7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+computer-design-project  5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+id                       4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+id-front                 3 hrs 16 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+awesome-design-md        3 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
 
 💻 Operating System: 
-Mac                      21 hrs 48 mins      ████████████████████████░   97.40 % 
-Windows                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+Mac                      25 hrs 3 mins       ████████████████████████░   97.73 % 
+Windows                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -144,7 +148,7 @@ Swift                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/04/2026 01:22:55 UTC
+ Last Updated on 13/04/2026 01:24:51 UTC
 <!--END_SECTION:waka-->
 
 </details>
