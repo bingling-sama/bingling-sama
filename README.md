@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://stats.booling.cn/?user=bingling-sama&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.booling.cn/?user=bingling-sama&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
