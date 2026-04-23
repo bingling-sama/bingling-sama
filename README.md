@@ -47,12 +47,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bingling-sama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bingling-sama&layout=compact&theme=tokyonight&hide=html"/>
+  <img height="160em" src="https://stats.booling.cn/api?username=bingling-sama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://stats.booling.cn/api/top-langs/?username=bingling-sama&layout=compact&theme=tokyonight&hide=html"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bingling-sama&theme=tokyonight" alt="GitHub Streak Stats"/>
+  <img src="https://stats.booling.cn/?user=bingling-sama&theme=tokyonight" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
