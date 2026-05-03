@@ -113,27 +113,27 @@ Sunday                   1052 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 33 mins      ███████████████░░░░░░░░░░   60.06 % 
-TypeScript               4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-CSS                      2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Markdown                 1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+Other                    17 hrs 14 mins      ███████████████░░░░░░░░░░   59.71 % 
+TypeScript               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+CSS                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
 
 🔥 Editors: 
-Edge                     25 hrs 19 mins      ███████████████████░░░░░░   77.76 % 
-Cursor                   7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.24 % 
+Edge                     23 hrs              ████████████████████░░░░░   79.70 % 
+Cursor                   5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
 
 🐱‍💻 Projects: 
-Weibo-Picture-Store      6 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-id-front                 5 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
-oci-registry             4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-id                       3 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-obsidian-copilot         3 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
+Weibo-Picture-Store      6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
+id-front                 4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+oci-registry             4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+obsidian-copilot         3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+id                       2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
 
 💻 Operating System: 
-Mac                      30 hrs 55 mins      ████████████████████████░   94.98 % 
-Linux                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
-Windows                  29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Mac                      27 hrs 15 mins      ████████████████████████░   94.41 % 
+Linux                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2026 01:31:29 UTC
+ Last Updated on 03/05/2026 01:34:38 UTC
 <!--END_SECTION:waka-->
 
 </details>
