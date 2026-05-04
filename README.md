@@ -70,7 +70,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C376%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.10%20million%20lines%20of%20code-blue?style=flat)
 
@@ -113,27 +113,27 @@ Sunday                   1052 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    17 hrs 14 mins      ███████████████░░░░░░░░░░   59.71 % 
-TypeScript               3 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-CSS                      2 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-JSON                     2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
+Other                    12 hrs 41 mins      ███████████████░░░░░░░░░░   59.18 % 
+TypeScript               3 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+CSS                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+JSON                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+YAML                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 🔥 Editors: 
-Edge                     23 hrs              ████████████████████░░░░░   79.70 % 
-Cursor                   5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+Edge                     17 hrs 40 mins      █████████████████████░░░░   82.37 % 
+Cursor                   3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
 
 🐱‍💻 Projects: 
-Weibo-Picture-Store      6 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-id-front                 4 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-oci-registry             4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-obsidian-copilot         3 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-id                       2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.09 % 
+id-front                 4 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   22.04 % 
+oci-registry             4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+obsidian-copilot         3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+Weibo-Picture-Store      2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+id                       2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 
 💻 Operating System: 
-Mac                      27 hrs 15 mins      ████████████████████████░   94.41 % 
-Linux                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Windows                  28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Mac                      19 hrs 50 mins      ███████████████████████░░   92.48 % 
+Linux                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+Windows                  28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2026 01:34:38 UTC
+ Last Updated on 04/05/2026 01:33:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
