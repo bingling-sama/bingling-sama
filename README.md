@@ -68,87 +68,38 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C417%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.72%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.23%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 632.6 kB Used in GitHub's Storage 
  > 
-> 🏆 433 Contributions in the Year 2026
+> 🏆 462 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 55 Public Repositories 
+> 📜 56 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1816 commits        █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
-🌆 Daytime                3554 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌃 Evening                2835 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
-🌙 Night                  771 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1366 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-Tuesday                  2137 commits        ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
-Wednesday                938 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Thursday                 915 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Friday                   2000 commits        ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-Saturday                 717 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Sunday                   903 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    17 hrs 42 mins      ████████████████░░░░░░░░░   62.42 % 
-Go                       3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-TypeScript               2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
-
-🔥 Editors: 
-Edge                     25 hrs 24 mins      ██████████████████████░░░   89.55 % 
-Cursor                   1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.83 % 
-VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
-
-🐱‍💻 Projects: 
-id                       8 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.60 % 
-id-front                 7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.76 % 
-obsidian-copilot         3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Blog                     1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-hidden                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-
-💻 Operating System: 
-Mac                      28 hrs 22 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               23 repos            █████████░░░░░░░░░░░░░░░░   35.38 % 
-Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Rust                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 
 
 
- Last Updated on 14/05/2026 02:01:00 UTC
+ Last Updated on 15/05/2026 01:58:57 UTC
 <!--END_SECTION:waka-->
 
 </details>
