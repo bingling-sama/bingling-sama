@@ -68,8 +68,6 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C455%20hrs%2042%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.51%20million%20lines%20of%20code-blue?style=flat)
@@ -86,6 +84,54 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3619 commits        ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌆 Daytime                6237 commits        ██████████░░░░░░░░░░░░░░░   39.76 % 
+🌃 Evening                4785 commits        ████████░░░░░░░░░░░░░░░░░   30.50 % 
+🌙 Night                  1047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2614 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Tuesday                  3789 commits        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Wednesday                1936 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Thursday                 1567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Friday                   3113 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Saturday                 1130 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    16 hrs 8 mins       ██████████████░░░░░░░░░░░   54.59 % 
+Swift                    9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
+JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+
+🔥 Editors: 
+Edge                     20 hrs 47 mins      ██████████████████░░░░░░░   70.31 % 
+VS Code                  8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+
+🐱‍💻 Projects: 
+DeviceManagement         4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+设备监视V2.0                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+drasl                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+MoldAPP test12           2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+expo-apple-targets       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+
+💻 Operating System: 
+Mac                      29 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -99,7 +145,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 01:56:14 UTC
+ Last Updated on 24/05/2026 02:02:48 UTC
 <!--END_SECTION:waka-->
 
 </details>
