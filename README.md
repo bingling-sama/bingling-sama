@@ -68,6 +68,8 @@
 </summary>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C459%20hrs%2037%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.51%20million%20lines%20of%20code-blue?style=flat)
@@ -111,25 +113,25 @@ Sunday                   1539 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 8 mins       ██████████████░░░░░░░░░░░   54.59 % 
-Swift                    9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.03 % 
-JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-YAML                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+Other                    16 hrs 1 min        ██████████████░░░░░░░░░░░   57.82 % 
+Swift                    9 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   35.39 % 
+JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
+JavaScript               24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+YAML                     19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 
 🔥 Editors: 
-Edge                     20 hrs 47 mins      ██████████████████░░░░░░░   70.31 % 
-VS Code                  8 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Edge                     19 hrs 47 mins      ██████████████████░░░░░░░   71.36 % 
+VS Code                  7 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.64 % 
 
 🐱‍💻 Projects: 
-DeviceManagement         4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
-设备监视V2.0                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-drasl                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-MoldAPP test12           2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-expo-apple-targets       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+DeviceManagement         4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+设备监视V2.0                 4 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+drasl                    3 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+MoldAPP test12           2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+expo-apple-targets       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 💻 Operating System: 
-Mac                      29 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -145,7 +147,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026 02:02:48 UTC
+ Last Updated on 25/05/2026 02:09:45 UTC
 <!--END_SECTION:waka-->
 
 </details>
