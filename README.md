@@ -68,17 +68,15 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C467%20hrs%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.51%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 632.6 kB Used in GitHub's Storage 
+> 📦 632.7 kB Used in GitHub's Storage 
  > 
-> 🏆 477 Contributions in the Year 2026
+> 🏆 480 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -86,51 +84,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3621 commits        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-🌆 Daytime                6237 commits        ██████████░░░░░░░░░░░░░░░   39.75 % 
-🌃 Evening                4787 commits        ████████░░░░░░░░░░░░░░░░░   30.51 % 
-🌙 Night                  1047 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   2614 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
-Tuesday                  3789 commits        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Wednesday                1937 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Thursday                 1567 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
-Friday                   3113 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
-Saturday                 1133 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Other                    10 hrs 58 mins      ███████████████████░░░░░░   77.88 % 
-Swift                    3 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-
-🔥 Editors: 
-Edge                     14 hrs 5 mins       █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-websocket                5 hrs 1 min         █████████░░░░░░░░░░░░░░░░   35.69 % 
-id                       3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
-rpc                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-bro                      55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
-mistral.rs               48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-
-💻 Operating System: 
-Mac                      13 hrs 53 mins      █████████████████████████   98.58 % 
-Windows                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -144,7 +97,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 01:54:17 UTC
+ Last Updated on 29/05/2026 02:03:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
