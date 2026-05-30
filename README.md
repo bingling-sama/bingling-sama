@@ -68,7 +68,9 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C473%20hrs%2013%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.51%20million%20lines%20of%20code-blue?style=flat)
 
@@ -84,6 +86,51 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3622 commits        ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
+🌆 Daytime                6233 commits        ██████████░░░░░░░░░░░░░░░   39.66 % 
+🌃 Evening                4813 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
+🌙 Night                  1049 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   2614 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Tuesday                  3789 commits        ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Wednesday                1937 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
+Thursday                 1598 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Friday                   3107 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
+Saturday                 1133 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+Other                    12 hrs 24 mins      ████████████████████░░░░░   79.91 % 
+Swift                    3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+
+🔥 Editors: 
+Edge                     15 hrs 31 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+websocket                5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.39 % 
+id                       3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
+skills                   2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+rpc                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
+bro                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+
+💻 Operating System: 
+Mac                      14 hrs 55 mins      ████████████████████████░   96.14 % 
+Windows                  35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -97,7 +144,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/05/2026 02:03:42 UTC
+ Last Updated on 30/05/2026 01:58:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
