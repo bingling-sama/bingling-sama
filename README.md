@@ -68,17 +68,17 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C475%20hrs%2046%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C476%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.16%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.15%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 631.0 kB Used in GitHub's Storage 
  > 
-> 🏆 483 Contributions in the Year 2026
+> 🏆 488 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -89,21 +89,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3623 commits        ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-🌆 Daytime                6233 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
-🌃 Evening                4834 commits        ████████░░░░░░░░░░░░░░░░░   30.71 % 
-🌙 Night                  1051 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+🌞 Morning                3623 commits        ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+🌆 Daytime                6221 commits        ██████████░░░░░░░░░░░░░░░   39.92 % 
+🌃 Evening                4701 commits        ████████░░░░░░░░░░░░░░░░░   30.16 % 
+🌙 Night                  1040 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2614 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Tuesday                  3789 commits        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Wednesday                1938 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
-Thursday                 1618 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-Friday                   3107 commits        █████░░░░░░░░░░░░░░░░░░░░   19.74 % 
-Saturday                 1136 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
+Monday                   2591 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+Tuesday                  3774 commits        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Wednesday                1938 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Thursday                 1497 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Friday                   3107 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Saturday                 1139 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
+Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
 ```
 
 
@@ -113,40 +113,40 @@ Sunday                   1539 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 22 mins      ██████████████████████░░░   87.02 % 
-Swift                    2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Other                    11 hrs 35 mins      █████████████████████░░░░   85.29 % 
+Swift                    1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
 
 🔥 Editors: 
-Edge                     16 hrs 24 mins      █████████████████████████   99.35 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+Edge                     13 hrs 28 mins      █████████████████████████   99.22 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 🐱‍💻 Projects: 
-websocket                3 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
-id                       3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
-skills                   2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-codex-deepseek           1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-animeko                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+id                       3 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+skills                   2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+codex-deepseek           2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+websocket                1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
+animeko                  1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 💻 Operating System: 
-Mac                      14 hrs 53 mins      ███████████████████████░░   90.18 % 
-Windows                  1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
+Mac                      11 hrs 53 mins      ██████████████████████░░░   87.48 % 
+Windows                  1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
 
 
- Last Updated on 01/06/2026 02:20:22 UTC
+ Last Updated on 02/06/2026 02:20:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
