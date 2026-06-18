@@ -68,15 +68,15 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.47%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.25%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 632.5 kB Used in GitHub's Storage 
  > 
-> 🏆 505 Contributions in the Year 2026
+> 🏆 509 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -87,21 +87,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3640 commits        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-🌆 Daytime                6289 commits        ██████████░░░░░░░░░░░░░░░   39.69 % 
-🌃 Evening                4831 commits        ████████░░░░░░░░░░░░░░░░░   30.49 % 
-🌙 Night                  1084 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+🌞 Morning                3490 commits        ██████░░░░░░░░░░░░░░░░░░░   22.81 % 
+🌆 Daytime                6071 commits        ██████████░░░░░░░░░░░░░░░   39.68 % 
+🌃 Evening                4671 commits        ████████░░░░░░░░░░░░░░░░░   30.53 % 
+🌙 Night                  1066 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Tuesday                  3813 commits        ██████░░░░░░░░░░░░░░░░░░░   24.07 % 
-Wednesday                1941 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-Thursday                 1605 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
-Friday                   3218 commits        █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Saturday                 1138 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Monday                   2486 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Tuesday                  3677 commits        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Wednesday                1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Thursday                 1555 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+Friday                   3126 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Saturday                 1103 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Sunday                   1486 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
 ```
 
 
@@ -111,43 +111,43 @@ Sunday                   1539 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    12 hrs 39 mins      ███████████████░░░░░░░░░░   61.05 % 
-TypeScript               2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Markdown                 2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Kotlin                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-JSON                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
+Other                    10 hrs 43 mins      ██████████████░░░░░░░░░░░   56.06 % 
+TypeScript               4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Markdown                 1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 
 🔥 Editors: 
-Edge                     15 hrs 12 mins      ██████████████████░░░░░░░   73.34 % 
-VS Code                  5 hrs 9 mins        ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-Claude Code              21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Edge                     12 hrs 14 mins      ████████████████░░░░░░░░░   63.95 % 
+VS Code                  5 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.21 % 
+Claude Code              55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
 
 🐱‍💻 Projects: 
-KIPPU_Trace              7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.18 % 
-ccnubox_rn               4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.55 % 
-forum-fe                 2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-marktext                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-mole-widget              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+ccnubox_rn               7 hrs 16 mins       █████████░░░░░░░░░░░░░░░░   37.97 % 
+KIPPU_Trace              5 hrs 38 mins       ███████░░░░░░░░░░░░░░░░░░   29.46 % 
+forum-fe                 2 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.94 % 
+mole-widget              51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+auditor-FrontEnd         40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
 
 💻 Operating System: 
-Mac                      18 hrs 42 mins      ███████████████████████░░   90.25 % 
-Linux                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Mac                      17 hrs 18 mins      ███████████████████████░░   90.43 % 
+Linux                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
+Vue                      11 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+JavaScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+PHP                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 ```
 
 
 
 
- Last Updated on 17/06/2026 02:23:34 UTC
+ Last Updated on 18/06/2026 02:20:54 UTC
 <!--END_SECTION:waka-->
 
 </details>
