@@ -89,20 +89,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3640 commits        ██████░░░░░░░░░░░░░░░░░░░   23.00 % 
-🌆 Daytime                6283 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
-🌃 Evening                4825 commits        ████████░░░░░░░░░░░░░░░░░   30.49 % 
-🌙 Night                  1077 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+🌞 Morning                3640 commits        ██████░░░░░░░░░░░░░░░░░░░   23.01 % 
+🌆 Daytime                6279 commits        ██████████░░░░░░░░░░░░░░░   39.70 % 
+🌃 Evening                4823 commits        ████████░░░░░░░░░░░░░░░░░   30.49 % 
+🌙 Night                  1074 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
-Tuesday                  3804 commits        ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-Wednesday                1964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-Thursday                 1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Friday                   3182 commits        █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Saturday                 1138 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Monday                   2590 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  3801 commits        ██████░░░░░░░░░░░░░░░░░░░   24.03 % 
+Wednesday                1964 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Thursday                 1608 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Friday                   3176 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Saturday                 1138 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
 Sunday                   1539 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
 ```
 
@@ -113,27 +113,27 @@ Sunday                   1539 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 23 mins      ██████████████░░░░░░░░░░░   55.36 % 
-TypeScript               5 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-Markdown                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Other                    7 hrs 29 mins       ███████████░░░░░░░░░░░░░░   45.77 % 
+TypeScript               5 hrs 17 mins       ████████░░░░░░░░░░░░░░░░░   32.31 % 
+JavaScript               56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Markdown                 46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+JSON                     45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Edge                     13 hrs 17 mins      ████████████████░░░░░░░░░   64.61 % 
-VS Code                  6 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-Claude Code              1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Edge                     9 hrs 6 mins        ██████████████░░░░░░░░░░░   55.73 % 
+VS Code                  6 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
+Claude Code              1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               8 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
-KIPPU_Trace              3 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-forum-fe                 3 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-forum-be                 2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-webpack                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+ccnubox_rn               8 hrs 17 mins       █████████████░░░░░░░░░░░░   50.70 % 
+forum-fe                 3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.38 % 
+forum-be                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+webpack                  54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+Auto-PPT                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      18 hrs 34 mins      ███████████████████████░░   90.26 % 
-Linux                    2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+Mac                      14 hrs 59 mins      ███████████████████████░░   91.65 % 
+Linux                    1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +149,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026 02:48:58 UTC
+ Last Updated on 20/06/2026 02:10:00 UTC
 <!--END_SECTION:waka-->
 
 </details>
