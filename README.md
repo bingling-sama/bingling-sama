@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2022%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -113,28 +113,28 @@ Sunday                   1543 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 26 mins      ████████████████░░░░░░░░░   64.71 % 
-Rust                     3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Go                       2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Markdown                 2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-HTML                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+Other                    25 hrs 15 mins      █████████████████░░░░░░░░   66.99 % 
+Rust                     4 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Go                       2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Markdown                 2 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🔥 Editors: 
-Edge                     21 hrs 54 mins      █████████████████░░░░░░░░   69.36 % 
-VS Code                  5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
-Claude Code              4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Edge                     27 hrs 1 min        ██████████████████░░░░░░░   71.68 % 
+VS Code                  6 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+Claude Code              4 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
 
 🐱‍💻 Projects: 
-eidolon                  7 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-ppt-master               7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-ponytail                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-id                       3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.68 % 
-academic-research-skills 3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
+eidolon                  14 hrs              █████████░░░░░░░░░░░░░░░░   37.13 % 
+ppt-master               7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
+ponytail                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
+id                       3 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+mitex                    2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 💻 Operating System: 
-Mac                      23 hrs 24 mins      ███████████████████░░░░░░   74.11 % 
-Linux                    7 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Windows                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
+Mac                      28 hrs 35 mins      ███████████████████░░░░░░   75.84 % 
+Linux                    8 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
+Windows                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -150,7 +150,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 02:11:10 UTC
+ Last Updated on 29/06/2026 02:12:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
