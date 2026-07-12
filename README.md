@@ -68,9 +68,9 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C638%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C644%20hrs%2058%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -78,7 +78,7 @@
 
 > 📦 636.5 kB Used in GitHub's Storage 
  > 
-> 🏆 572 Contributions in the Year 2026
+> 🏆 561 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -113,28 +113,28 @@ Sunday                   1575 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 16 mins      ███████████░░░░░░░░░░░░░░   44.77 % 
-TypeScript               10 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
-JSON                     2 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-C++                      2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-Java                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
+Other                    20 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.79 % 
+TypeScript               9 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+JSON                     2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+C++                      2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Java                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Edge                     22 hrs 41 mins      █████████████░░░░░░░░░░░░   50.17 % 
-VS Code                  19 hrs 47 mins      ███████████░░░░░░░░░░░░░░   43.76 % 
-Opencode Cli             1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Claude Code              57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+Edge                     23 hrs 10 mins      █████████████░░░░░░░░░░░░   50.21 % 
+VS Code                  19 hrs 36 mins      ███████████░░░░░░░░░░░░░░   42.46 % 
+Opencode Cli             2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Claude Code              59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               21 hrs 40 mins      ████████████░░░░░░░░░░░░░   47.89 % 
-lmm                      6 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-ZerotierFix              3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-summerProject            2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-ccnubox-be               1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+ccnubox_rn               19 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   41.65 % 
+lmm                      7 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+ZerotierFix              3 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+summerProject            2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+ppt-master               1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 
 💻 Operating System: 
-Mac                      32 hrs 9 mins       ██████████████████░░░░░░░   71.12 % 
-Linux                    12 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   28.75 % 
+Mac                      33 hrs 6 mins       ██████████████████░░░░░░░   71.69 % 
+Linux                    13 hrs              ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
@@ -151,7 +151,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/07/2026 01:25:53 UTC
+ Last Updated on 12/07/2026 01:27:40 UTC
 <!--END_SECTION:waka-->
 
 </details>
