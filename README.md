@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C677%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -78,7 +78,7 @@
 
 > 📦 635.0 kB Used in GitHub's Storage 
  > 
-> 🏆 591 Contributions in the Year 2026
+> 🏆 596 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -90,8 +90,8 @@
 
 ```text
 🌞 Morning                3771 commits        ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
-🌆 Daytime                6508 commits        ██████████░░░░░░░░░░░░░░░   39.59 % 
-🌃 Evening                4984 commits        ████████░░░░░░░░░░░░░░░░░   30.32 % 
+🌆 Daytime                6508 commits        ██████████░░░░░░░░░░░░░░░   39.60 % 
+🌃 Evening                4982 commits        ████████░░░░░░░░░░░░░░░░░   30.31 % 
 🌙 Night                  1174 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
@@ -99,9 +99,9 @@
 ```text
 Monday                   2699 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 Tuesday                  3937 commits        ██████░░░░░░░░░░░░░░░░░░░   23.95 % 
-Wednesday                2098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Wednesday                2098 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
 Thursday                 1684 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-Friday                   3281 commits        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Friday                   3279 commits        █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 Saturday                 1162 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
 Sunday                   1576 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
 ```
@@ -113,27 +113,26 @@ Sunday                   1576 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    16 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   41.59 % 
-Go                       5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Markdown                 4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-TypeScript               4 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-YAML                     1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Other                    17 hrs 46 mins      ████████████░░░░░░░░░░░░░   46.51 % 
+Go                       5 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+TypeScript               5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Markdown                 4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+JSON                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 12 mins      ██████████████░░░░░░░░░░░   57.11 % 
-Edge                     16 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   41.37 % 
-Opencode Cli             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+VS Code                  19 hrs 50 mins      █████████████░░░░░░░░░░░░   51.95 % 
+Edge                     17 hrs 45 mins      ████████████░░░░░░░░░░░░░   46.50 % 
+Opencode Cli             35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🐱‍💻 Projects: 
-id                       13 hrs 11 mins      ████████░░░░░░░░░░░░░░░░░   33.93 % 
-id-front                 11 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.73 % 
-lmm                      4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-ccnubox_rn               2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-summerProject            2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+id                       14 hrs 20 mins      █████████░░░░░░░░░░░░░░░░   37.53 % 
+id-front                 11 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   29.24 % 
+ccnubox_rn               5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+ppt-master               1 hr 48 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+lmm_qt                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 💻 Operating System: 
-Mac                      38 hrs 15 mins      █████████████████████████   98.39 % 
-Linux                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Mac                      38 hrs 3 mins       █████████████████████████   99.61 % 
 Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
@@ -150,7 +149,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2026 01:29:14 UTC
+ Last Updated on 18/07/2026 01:21:07 UTC
 <!--END_SECTION:waka-->
 
 </details>
