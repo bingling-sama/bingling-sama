@@ -68,7 +68,7 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C737%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C737%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -113,27 +113,28 @@ Sunday                   1691 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs              ███████████░░░░░░░░░░░░░░   44.99 % 
-Rust                     8 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-Markdown                 3 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-TypeScript               2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Other                    12 hrs 52 mins      ████████████░░░░░░░░░░░░░   49.60 % 
+Rust                     6 hrs 50 mins       ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Markdown                 2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+TypeScript               1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+JavaScript               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-Edge                     17 hrs 42 mins      █████████████░░░░░░░░░░░░   53.08 % 
-Codex CLI                8 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-VS Code                  6 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
+Edge                     13 hrs 25 mins      █████████████░░░░░░░░░░░░   51.70 % 
+Codex CLI                7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+VS Code                  5 hrs 1 min         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
 
 🐱‍💻 Projects: 
-eidolon                  16 hrs              ████████████░░░░░░░░░░░░░   47.97 % 
-ccnubox_rn               6 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.78 % 
-sub2api                  4 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-id                       3 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-id-front                 59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+eidolon                  12 hrs 48 mins      ████████████░░░░░░░░░░░░░   49.28 % 
+ccnubox_rn               4 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.22 % 
+id                       4 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
+sub2api                  1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+id-front                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 💻 Operating System: 
-Mac                      19 hrs 44 mins      ███████████████░░░░░░░░░░   59.16 % 
-Linux                    13 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   40.84 % 
+Mac                      15 hrs 5 mins       ███████████████░░░░░░░░░░   58.10 % 
+Linux                    10 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.89 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -149,7 +150,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 01:33:46 UTC
+ Last Updated on 27/07/2026 01:37:59 UTC
 <!--END_SECTION:waka-->
 
 </details>
