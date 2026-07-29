@@ -68,10 +68,6 @@
 </summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-610%20hrs%2041%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-130%20hrs%2042%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.01%20million%20lines%20of%20code-blue?style=flat)
@@ -91,19 +87,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4097 commits        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌆 Daytime                7009 commits        ██████████░░░░░░░░░░░░░░░   39.72 % 
-🌃 Evening                5285 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
-🌙 Night                  1256 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+🌞 Morning                4097 commits        ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+🌆 Daytime                7015 commits        ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌃 Evening                5288 commits        ███████░░░░░░░░░░░░░░░░░░   29.95 % 
+🌙 Night                  1256 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Tuesday                  4236 commits        ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Monday                   2928 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Tuesday                  4236 commits        ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
 Wednesday                2300 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.03 % 
 Thursday                 1758 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-Friday                   3502 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Friday                   3511 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
 Saturday                 1232 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 Sunday                   1691 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 ```
@@ -115,48 +111,48 @@ Sunday                   1691 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    9 hrs 37 mins       ███████████░░░░░░░░░░░░░░   44.92 % 
-Rust                     6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
-Markdown                 2 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
-Go                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Other                    6 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.05 % 
+Rust                     4 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.69 % 
+Markdown                 2 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Go                       38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JavaScript               38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
 
 🔥 Editors: 
-Edge                     10 hrs 3 mins       ████████████░░░░░░░░░░░░░   46.88 % 
-Codex CLI                7 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.24 % 
-VS Code                  4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   19.88 % 
+Edge                     6 hrs 59 mins       ███████████░░░░░░░░░░░░░░   43.37 % 
+Codex CLI                5 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
+VS Code                  3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
 
 🐱‍💻 Projects: 
-eidolon                  10 hrs 52 mins      █████████████░░░░░░░░░░░░   50.70 % 
-id                       4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-ccnubox_rn               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-sub2api                  1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-skills                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+eidolon                  8 hrs 18 mins       █████████████░░░░░░░░░░░░   51.56 % 
+id                       4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+ccnubox_rn               2 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+skills                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+id-front                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 
 💻 Operating System: 
-Mac                      11 hrs 9 mins       █████████████░░░░░░░░░░░░   52.06 % 
-Linux                    10 hrs 16 mins      ████████████░░░░░░░░░░░░░   47.92 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Linux                    8 hrs 21 mins       █████████████░░░░░░░░░░░░   51.82 % 
+Mac                      7 hrs 45 mins       ████████████░░░░░░░░░░░░░   48.16 % 
+Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 16 mins (52.57%)
+⏱ AI Coding Time: 9 hrs 2 mins (56.04%)
 
-✍️ 9,098 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 8,544 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 403,324,083 Input Tokens, 1,343,479 Output Tokens
+🔤 327,646,422 Input Tokens, 1,102,357 Output Tokens
 
-💵 $2028.79 Estimated AI Cost This Week
+💵 $1669.66 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 262 AI Prompts
+🧠 41 AI Sessions, 188 AI Prompts
 
-GPT                      9,881 lines         █████████████████████████   100.00 % 
+GPT                      9,289 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 10,259 characters per prompt
+📚 Verbose Prompter — average 10,284 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -174,7 +170,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2026 01:26:36 UTC
+ Last Updated on 29/07/2026 01:27:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
