@@ -91,21 +91,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4097 commits        ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
-🌆 Daytime                7103 commits        ██████████░░░░░░░░░░░░░░░   39.37 % 
-🌃 Evening                5329 commits        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-🌙 Night                  1512 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+🌞 Morning                4097 commits        ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+🌆 Daytime                7116 commits        ██████████░░░░░░░░░░░░░░░   39.39 % 
+🌃 Evening                5336 commits        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+🌙 Night                  1518 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   2856 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Tuesday                  4213 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Wednesday                2397 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Thursday                 1916 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Friday                   3566 commits        █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Saturday                 1265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
-Sunday                   1828 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Monday                   2857 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Tuesday                  4219 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+Wednesday                2397 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Thursday                 1916 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Friday                   3584 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+Saturday                 1265 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Sunday                   1829 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
 ```
 
 
@@ -115,53 +115,53 @@ Sunday                   1828 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    11 hrs 47 mins      ██████████████░░░░░░░░░░░   56.22 % 
-TypeScript               4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-JSON                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
-Docker                   1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Other                    7 hrs 14 mins       █████████████░░░░░░░░░░░░   52.28 % 
+TypeScript               3 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Go                       31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+Markdown                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 
 🔥 Editors: 
-Edge                     13 hrs 28 mins      ████████████████░░░░░░░░░   64.23 % 
-Opencode Cli             4 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-VS Code                  2 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-Codex Vscode             19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-Claude Code              5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Edge                     8 hrs 17 mins       ███████████████░░░░░░░░░░   59.80 % 
+Opencode Cli             3 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.03 % 
+VS Code                  1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Codex Vscode             19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+Antigravity CLI          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-ccnubox_rn               9 hrs 3 mins        ███████████░░░░░░░░░░░░░░   43.15 % 
-twin                     2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-muxi_official_website    1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
-easdelivr                1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-ccnubox-website          1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+ccnubox_rn               6 hrs 49 mins       ████████████░░░░░░░░░░░░░   49.21 % 
+easdelivr                1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.27 % 
+twin                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
+Blog                     1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+obsidian-copilot         37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 
 💻 Operating System: 
-Mac                      17 hrs 40 mins      █████████████████████░░░░   84.20 % 
-Linux                    3 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Mac                      13 hrs 3 mins       ████████████████████████░   94.26 % 
+Linux                    47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 53 mins (28.04%)
+⏱ AI Coding Time: 4 hrs 24 mins (31.81%)
 
-✍️ 2,689 lines written by AI, 36 lines written by hand (98.68% AI-written)
+✍️ 2,551 lines written by AI, 25 lines written by hand (99.03% AI-written)
 
-🔤 10,295,769 Input Tokens, 367,607 Output Tokens
+🔤 8,012,613 Input Tokens, 287,802 Output Tokens
 
-💵 $103.04 Estimated AI Cost This Week
+💵 $91.91 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 122 AI Prompts
+🧠 21 AI Sessions, 82 AI Prompts
 
-Gemini                   2,350 lines         ███████████████████░░░░░░   75.81 % 
-GPT                      750 lines           ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
+Gemini                   2,204 lines         ███████████████████░░░░░░   74.61 % 
+GPT                      750 lines           ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
 Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.68% of written lines came from AI
-📚 Verbose Prompter — average 3,938 characters per prompt
+🤖 AI-Driven — 99.03% of written lines came from AI
+📚 Verbose Prompter — average 5,831 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 7.63% of changed lines were hand-edited
+🚀 High AI Trust — 7.52% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -177,7 +177,7 @@ PHP                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/08/2026 00:37:05 UTC
+ Last Updated on 25/08/2026 00:39:16 UTC
 <!--END_SECTION:waka-->
 
 </details>
