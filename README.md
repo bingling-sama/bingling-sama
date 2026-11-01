@@ -115,52 +115,52 @@ Sunday                   3017 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.83 % 
-Markdown                 10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-Rust                     6 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-TypeScript               2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Python                   1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+Other                    13 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   37.79 % 
+Markdown                 8 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+Rust                     6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
+TypeScript               2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.86 % 
+JavaScript               1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 
 🔥 Editors: 
-Edge                     17 hrs 10 mins      ██████████░░░░░░░░░░░░░░░   40.47 % 
-Opencode Cli             12 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-Codex Vscode             4 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-VS Code                  3 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
-OpenCode                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Edge                     15 hrs 59 mins      ███████████░░░░░░░░░░░░░░   43.66 % 
+Opencode Cli             10 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
+VS Code                  3 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+OpenCode                 3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
+Opencode Desktop         1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
 
 🐱‍💻 Projects: 
-eidolon                  19 hrs 30 mins      ███████████░░░░░░░░░░░░░░   45.95 % 
-RSIBench                 8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-xiaoya_automatic         4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-twin                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-id                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+eidolon                  17 hrs 2 mins       ████████████░░░░░░░░░░░░░   46.53 % 
+RSIBench                 6 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+xiaoya_automatic         4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+twin                     1 hr 53 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+id                       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
 
 💻 Operating System: 
-Mac                      30 hrs 13 mins      ██████████████████░░░░░░░   71.20 % 
-Linux                    12 hrs 13 mins      ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+Mac                      26 hrs 26 mins      ██████████████████░░░░░░░   72.20 % 
+Linux                    10 hrs 11 mins      ███████░░░░░░░░░░░░░░░░░░   27.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 20 mins (57.33%)
+⏱ AI Coding Time: 19 hrs 42 mins (53.8%)
 
-✍️ 13,388 lines written by AI, 27 lines written by hand (99.8% AI-written)
+✍️ 10,690 lines written by AI, 27 lines written by hand (99.75% AI-written)
 
-🔤 46,103,893 Input Tokens, 1,950,627 Output Tokens
+🔤 39,542,156 Input Tokens, 1,625,765 Output Tokens
 
-💵 $95.22 Estimated AI Cost This Week
+💵 $78.52 Estimated AI Cost This Week
 
-🧠 150 AI Sessions, 305 AI Prompts
+🧠 135 AI Sessions, 270 AI Prompts
 
-Gemini                   9,391 lines         ███████████████████████░░   92.04 % 
-GPT                      812 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 % 
+Gemini                   7,577 lines         ████████████████████████░   96.45 % 
+GPT                      279 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 1,182 characters per prompt
+🤖 AI-Driven — 99.75% of written lines came from AI
+📄 Detailed Prompter — average 1,273 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.21% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -176,7 +176,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2026 03:06:00 UTC
+ Last Updated on 01/11/2026 03:00:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
